@@ -48,7 +48,7 @@
     },
     {
         "Variant" : "Omicron BA.1",
-        "S": ["S:A67V", "S:T95I", "S:Y145D", "S:L212I", "S:G339D", "SL371L", "S:373P", "S375F", "S:K417N", "S:N440K", "S:G446S", "S:S477N", "S:T478K", "S:E484A", "S:Q493R", "S:Q496S", "S:N501Y", "S:Y505H", "S:T547K", "S:D614G", "S:H655Y", "S:N679K", "S:P681H", "S:N764K", "S:D796Y", "S:N856K", "S:Q954H", "S:N969K", "S:L981F"],
+        "S": ["S:A67V", "S:T95I", "S:Y145D", "S:L212I", "S:G339D", "S:R346K", "S:L371L", "S:S373P", "S:S375F", "S:K417N", "S:N440K", "S:G446S", "S:S477N", "S:T478K", "S:E484A", "S:Q493R", "S:Q496S", "S:N501Y", "S:Y505H", "S:T547K", "S:D614G", "S:H655Y", "S:N679K", "S:P681H", "S:N764K", "S:D796Y", "S:N856K", "S:Q954H", "S:N969K", "S:L981F"],
         "M": ["M:D3G", "M:Q19E", "M:A63T"],
         "N": ["N:P13L", "N:R203K", "N:G204R"],
         "E": ["E:T9I"],
