@@ -12,6 +12,8 @@ import json as jn
 # session initialisation
 if 'mutSelection' not in st.session_state:
     st.session_state['mutSelection'] = set()
+if 'mutByDate' not in st.session_state:
+    st.session_state['mutByDate'] = pd.DataFrame()
 
 # initialisation
 DATA_URL = ('https://cog-uk.s3.climb.ac.uk/phylogenetics/latest/cog_metadata.csv')
@@ -25,8 +27,8 @@ currentGene = 'S'
 
 # main area and sidebar 
 st.title('CoVs-2 Mutations')
-st.text('Plot mutation frequency across all the UK SARS-CoV-2 sequences held in MRC-CLIMB\nusing the filters on the left.')
-st.sidebar.title("Filters")
+st.subheader('Plot Mutation Frequency')
+st.text('Plot mutation frequency across all the UK SARS-CoV-2 sequences held in MRC-CLIMB using the filters below.')
 
 # mutation json
 def load_mutationTable(variants, mutations):
@@ -64,85 +66,43 @@ def search_data(muts, cogDf):
     mutByDate = pd.concat(seriesList, axis=1)
     return mutByDate
 
-# data display
-def searchDisplay(mutByDate, fromDate, toDate):
-    plotTypePY(mutByDate, fromDate, toDate)
-
-def plotTypePY(mutByDate, fromDate, toDate):
-    fig2, ax2 = plt.subplots(num=None, figsize=(25, 20), facecolor="w", edgecolor="k")
-
-    fig2.text(
-            0.51,
-            0.05,
-            f"Date: {str(dt.date.today())} | Mutation Frequency Patterns | Data source: MRC-CLIMB via https://cog-uk.s3.climb.ac.uk/phylogenetics/latest/cog_metadata.csv | @youngvintage69",
-            size=16,
-            va="bottom",
-            ha="center",
-        )
-
-    sns.lineplot(data=mutByDate, palette="tab10", linewidth=2.5)
-
-    plt.legend(loc=2, prop={'size': 20})
-    locator = mdates.AutoDateLocator()
-    formatter = mdates.ConciseDateFormatter(locator)
-    #ax2.set_ylim(0,100)
-    ax2.set_xlim([fromDate, toDate])
-    ax2.tick_params(axis='both', which='major', labelsize=20)
-    ax2.tick_params(axis='both', which='minor', labelsize=10) 
-    ax2.xaxis.set_major_locator(locator)
-    ax2.xaxis.set_major_formatter(formatter)
-    ax2.xaxis.set_minor_locator(ticker.MultipleLocator(base=1.0))
-    ax2.set_xlabel("Sample Date")
-    ax2.xaxis.label.set_size(22)
-    ax2.set_ylabel("Count")
-    ax2.yaxis.label.set_size(22)
-    ax2.grid(True, which="major", linewidth=0.25)
-    ax2.grid(True, which="minor", linewidth=0.1)
-    ax2.set_axisbelow(True)
-    plt.show()
-
-    st.pyplot(fig2)
-
-def plotTypeST(mutByDate):
-    st.line_chart(data=mutByDate)
-
-
 # load the mutation table
 mutation_table = load_mutationTable(variants, mutations)
 
-# sidebar controls
-#
+# columns
+col1, col2, col3 = st.columns(3)
+
 #  variant
-selected_variant = st.sidebar.selectbox('Select a variant', variants)
+with col1:
+    selected_variant = st.selectbox('Select a variant', variants)
 
 # gene
-option = st.sidebar.selectbox(
-    'Select a gene',
-     (genes))
-currentGene = option
+with col2:
+    option = st.selectbox('Select a gene', (genes))
+    currentGene = option
 
 # mutation
-if currentGene in mutations[selected_variant]:
-    mutSelection = st.sidebar.multiselect('Select mutations', mutations[selected_variant][currentGene])
-    st.session_state['mutSelection'].update(mutSelection)
+with col3:
+    if currentGene in mutations[selected_variant]:
+        mutSelection = st.multiselect('Select mutations', mutations[selected_variant][currentGene])
+        st.session_state['mutSelection'].update(mutSelection)
+
     
 # total selected mutations
 if st.session_state['mutSelection']:
-    mutTotalSelection = st.sidebar.multiselect('Selected mutations', st.session_state['mutSelection'], default=st.session_state['mutSelection'])
+    mutTotalSelection = st.multiselect('Selected mutations', st.session_state['mutSelection'], default=st.session_state['mutSelection'])
     st.session_state['mutSelection'].clear()
     st.session_state['mutSelection'].update(mutTotalSelection)
 
-# date controls
-fromDate = st.sidebar.date_input(
-     "From",
-     dt.date(2020, 4, 1))
-toDate = st.sidebar.date_input("To", dt.date(2022, 1, 22))
 
 # run a search
-if st.sidebar.button('Search') :
+if st.button('Search') :
     cogDf = load_data()
-    mutByDate = search_data(st.session_state['mutSelection'], cogDf)
-    searchDisplay(mutByDate, fromDate, toDate)
+    st.session_state['mutByDate'] = search_data(st.session_state['mutSelection'], cogDf)
+
+st.line_chart(data=st.session_state['mutByDate'])
+st.caption("Data source: MRC-CLIMB via https://cog-uk.s3.climb.ac.uk/phylogenetics/latest/cog_metadata.csv")
+st.caption("Contact| twitter: @youngvintage69")
 
 
 
