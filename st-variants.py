@@ -120,14 +120,15 @@ option = st.sidebar.selectbox(
 currentGene = option
 
 # mutation
-mutSelection = st.sidebar.multiselect('Select mutations', mutations[selected_variant][currentGene])
-
+if currentGene in mutations[selected_variant]:
+    mutSelection = st.sidebar.multiselect('Select mutations', mutations[selected_variant][currentGene])
+    st.session_state['mutSelection'].update(mutSelection)
+    
 # total selected mutations
-totalSelection = st.session_state['mutSelection']
-totalSelection.update(mutSelection)
-mutTotalSelection = st.sidebar.multiselect('Selected mutations', st.session_state['mutSelection'], default=st.session_state['mutSelection'])
-totalSelection.clear()
-totalSelection.update(mutTotalSelection)
+if st.session_state['mutSelection']:
+    mutTotalSelection = st.sidebar.multiselect('Selected mutations', st.session_state['mutSelection'], default=st.session_state['mutSelection'])
+    st.session_state['mutSelection'].clear()
+    st.session_state['mutSelection'].update(mutTotalSelection)
 
 # date controls
 fromDate = st.sidebar.date_input(
