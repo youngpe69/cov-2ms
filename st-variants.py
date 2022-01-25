@@ -42,7 +42,7 @@ def load_mutationTable(variants, mutations):
 # COG-Metadata loader
 @st.cache
 def load_data():
-    cogDf = pd.read_csv(DATA_FILEPATH)
+    cogDf = pd.read_csv(DATA_URL)
     cogDf = cogDf.rename(columns={"sample_date": "date"})
     cogDf["date"] = pd.to_datetime(cogDf["date"])
     cogDf = cogDf.sort_values(by='date')
