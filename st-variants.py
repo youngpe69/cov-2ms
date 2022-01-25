@@ -52,6 +52,7 @@ def load_data():
 def search_data(muts, cogDf):
     print(muts)
     mutByDate = pd.DataFrame()
+    seriesList = list()
     for mut in muts:
         idSeries = cogDf['mutations'].str.contains(mut, na=False)
 
@@ -59,7 +60,8 @@ def search_data(muts, cogDf):
         countByDate = m.groupby('date').count()
         countByDate = countByDate.rename(columns={"sequence_name": mut})
         series = countByDate[mut]
-        mutByDate[mut] = series
+        seriesList.append(series)
+    mutByDate = pd.concat(seriesList, axis=1)
     return mutByDate
 
 # data display
