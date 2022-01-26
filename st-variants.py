@@ -9,6 +9,17 @@ import matplotlib.ticker as ticker
 import seaborn as sns
 import json as jn
 
+# page configuration
+st.set_page_config(
+    page_title="CoVs-2 Mutations",
+    layout='wide',
+    menu_items={
+        'Get Help': 'https://twitter.com/youngvintage69',
+        'Report a bug': 'https://github.com/youngpe69/cov-2ms/issues',
+        'About': 'Simple streamlit app for exploring SARS-CoV-2 mutations'
+    }
+)
+
 # session initialisation
 if 'mutSelection' not in st.session_state:
     st.session_state['mutSelection'] = set()
