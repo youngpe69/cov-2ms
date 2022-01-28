@@ -32,6 +32,7 @@ if 'mutByDate' not in st.session_state:
 # initialisation
 DATA_URL = ('https://cog-uk.s3.climb.ac.uk/phylogenetics/latest/cog_metadata.csv')
 DATA_FILEPATH = ('../corona/mut_data/cog_metadata.csv')
+GRAPH_FILEPATH = ('./cog-mutations-thresh.graphml')
 MUTATION_FILEPATH = ('./mutations.json')
 genes = {'S', 'M', 'N', 'E', 'Orf3a', 'Orf7a', 'Orf8'}
 
@@ -57,7 +58,7 @@ def load_mutationTable(variants, mutations):
 # COG-Metadata loader
 @st.cache
 def load_data():
-    cogDf = pd.read_csv(DATA_FILEPATH)
+    cogDf = pd.read_csv(DATA_URL)
     cogDf = cogDf.rename(columns={"sample_date": "date"})
     cogDf["date"] = pd.to_datetime(cogDf["date"])
     cogDf = cogDf.sort_values(by='date')
