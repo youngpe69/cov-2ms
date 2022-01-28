@@ -22,6 +22,8 @@ st.set_page_config(
 )
 
 # session initialisation
+if 'initialise_plot' not in st.session_state:
+    st.session_state['initialise_plot'] = True
 if 'mutSelection' not in st.session_state:
     st.session_state['mutSelection'] = set()
 if 'mutByDate' not in st.session_state:
