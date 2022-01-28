@@ -1,0 +1,2717 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d0" for="edge" attr.name="frequency" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="S:D614G" />
+    <node id="N:R203K" />
+    <node id="N:G204R" />
+    <node id="ORF7a:T120I" />
+    <node id="M:D3G" />
+    <node id="ORF8:Q27*" />
+    <node id="N:D3L" />
+    <node id="S:N501Y" />
+    <node id="S:A570D" />
+    <node id="S:P681H" />
+    <node id="S:T716I" />
+    <node id="S:S982A" />
+    <node id="S:D1118H" />
+    <node id="ORF8:R52I" />
+    <node id="ORF8:Y73C" />
+    <node id="ORF3a:S26L" />
+    <node id="S:A222V" />
+    <node id="S:T95I" />
+    <node id="S:D796Y" />
+    <node id="N:R203M" />
+    <node id="N:D377Y" />
+    <node id="N:P13L" />
+    <node id="S:S477N" />
+    <node id="S:T547K" />
+    <node id="E:T9I" />
+    <node id="S:A67V" />
+    <node id="S:D950N" />
+    <node id="N:G215C" />
+    <node id="S:H655Y" />
+    <node id="S:Y505H" />
+    <node id="S:E484A" />
+    <node id="S:Q493R" />
+    <node id="S:T478K" />
+    <node id="M:I82T" />
+    <node id="S:G142D" />
+    <node id="N:S235F" />
+    <node id="S:G339D" />
+    <node id="S:N679K" />
+    <node id="S:S373P" />
+    <node id="S:L452R" />
+    <node id="S:T19R" />
+    <node id="S:P681R" />
+    <node id="ORF7a:V82A" />
+    <node id="N:D63G" />
+    <node id="S:N969K" />
+    <node id="S:G496S" />
+    <node id="S:L981F" />
+    <node id="S:S375F" />
+    <node id="M:Q19E" />
+    <node id="S:N856K" />
+    <node id="M:A63T" />
+    <node id="S:Q498R" />
+    <node id="S:S371L" />
+    <node id="S:Q954H" />
+    <edge source="S:D614G" target="N:R203K">
+      <data key="d0">545685</data>
+      <data key="d1">0.3037377975537776</data>
+    </edge>
+    <edge source="S:D614G" target="N:G204R">
+      <data key="d0">544334</data>
+      <data key="d1">0.30298580736805664</data>
+    </edge>
+    <edge source="S:D614G" target="ORF7a:T120I">
+      <data key="d0">1102588</data>
+      <data key="d1">0.6137197297510918</data>
+    </edge>
+    <edge source="S:D614G" target="M:D3G">
+      <data key="d0">215936</data>
+      <data key="d1">0.12019374740477111</data>
+    </edge>
+    <edge source="S:D614G" target="ORF8:Q27*">
+      <data key="d0">272028</data>
+      <data key="d1">0.1514155338573701</data>
+    </edge>
+    <edge source="S:D614G" target="N:D3L">
+      <data key="d0">272896</data>
+      <data key="d1">0.15189867781089034</data>
+    </edge>
+    <edge source="S:D614G" target="S:N501Y">
+      <data key="d0">474179</data>
+      <data key="d1">0.26393630960398895</data>
+    </edge>
+    <edge source="S:D614G" target="S:A570D">
+      <data key="d0">273026</data>
+      <data key="d1">0.15197103808042678</data>
+    </edge>
+    <edge source="S:D614G" target="S:P681H">
+      <data key="d0">496047</data>
+      <data key="d1">0.27610842017493376</data>
+    </edge>
+    <edge source="S:D614G" target="S:T716I">
+      <data key="d0">273923</data>
+      <data key="d1">0.1524703239402282</data>
+    </edge>
+    <edge source="S:D614G" target="S:S982A">
+      <data key="d0">273066</data>
+      <data key="d1">0.15199330277874568</data>
+    </edge>
+    <edge source="S:D614G" target="S:D1118H">
+      <data key="d0">272954</data>
+      <data key="d1">0.15193096162345274</data>
+    </edge>
+    <edge source="S:D614G" target="ORF8:R52I">
+      <data key="d0">273508</data>
+      <data key="d1">0.15223932769516957</data>
+    </edge>
+    <edge source="S:D614G" target="ORF8:Y73C">
+      <data key="d0">271431</data>
+      <data key="d1">0.15108323323496048</data>
+    </edge>
+    <edge source="S:D614G" target="ORF3a:S26L">
+      <data key="d0">1127048</data>
+      <data key="d1">0.6273345927731016</data>
+    </edge>
+    <edge source="S:D614G" target="S:A222V">
+      <data key="d0">226988</data>
+      <data key="d1">0.12634548355028427</data>
+    </edge>
+    <edge source="S:D614G" target="S:T95I">
+      <data key="d0">1008354</data>
+      <data key="d1">0.5612674402165019</data>
+    </edge>
+    <edge source="S:D614G" target="S:D796Y">
+      <data key="d0">222730</data>
+      <data key="d1">0.12397540641423693</data>
+    </edge>
+    <edge source="S:D614G" target="N:R203M">
+      <data key="d0">1124928</data>
+      <data key="d1">0.6261545637621997</data>
+    </edge>
+    <edge source="S:D614G" target="N:D377Y">
+      <data key="d0">1127444</data>
+      <data key="d1">0.6275550132864587</data>
+    </edge>
+    <edge source="S:D614G" target="N:P13L">
+      <data key="d0">222370</data>
+      <data key="d1">0.1237750241293668</data>
+    </edge>
+    <edge source="S:D614G" target="S:S477N">
+      <data key="d0">210253</data>
+      <data key="d1">0.11703049039111282</data>
+    </edge>
+    <edge source="S:D614G" target="S:T547K">
+      <data key="d0">221468</data>
+      <data key="d1">0.12327295518227552</data>
+    </edge>
+    <edge source="S:D614G" target="E:T9I">
+      <data key="d0">222558</data>
+      <data key="d1">0.12387966821146565</data>
+    </edge>
+    <edge source="S:D614G" target="S:A67V">
+      <data key="d0">226649</data>
+      <data key="d1">0.12615679023203155</data>
+    </edge>
+    <edge source="S:D614G" target="S:D950N">
+      <data key="d0">1108764</data>
+      <data key="d1">0.6171573991715306</data>
+    </edge>
+    <edge source="S:D614G" target="N:G215C">
+      <data key="d0">1096611</data>
+      <data key="d1">0.6103928272047896</data>
+    </edge>
+    <edge source="S:D614G" target="S:H655Y">
+      <data key="d0">224982</data>
+      <data key="d1">0.12522890892959124</data>
+    </edge>
+    <edge source="S:D614G" target="S:Y505H">
+      <data key="d0">203119</data>
+      <data key="d1">0.11305958144593631</data>
+    </edge>
+    <edge source="S:D614G" target="S:E484A">
+      <data key="d0">206327</data>
+      <data key="d1">0.1148452102511124</data>
+    </edge>
+    <edge source="S:D614G" target="S:Q493R">
+      <data key="d0">207226</data>
+      <data key="d1">0.11534560934582977</data>
+    </edge>
+    <edge source="S:D614G" target="S:T478K">
+      <data key="d0">1313846</data>
+      <data key="d1">0.7313096206874671</data>
+    </edge>
+    <edge source="S:D614G" target="M:I82T">
+      <data key="d0">1120446</data>
+      <data key="d1">0.6236598043155664</data>
+    </edge>
+    <edge source="S:D614G" target="S:G142D">
+      <data key="d0">865150</data>
+      <data key="d1">0.4815575937649939</data>
+    </edge>
+    <edge source="S:D614G" target="N:S235F">
+      <data key="d0">271813</data>
+      <data key="d1">0.151295861103906</data>
+    </edge>
+    <edge source="S:D614G" target="S:G339D">
+      <data key="d0">218749</data>
+      <data key="d1">0.12175951231404802</data>
+    </edge>
+    <edge source="S:D614G" target="S:N679K">
+      <data key="d0">221933</data>
+      <data key="d1">0.12353178230023278</data>
+    </edge>
+    <edge source="S:D614G" target="S:S373P">
+      <data key="d0">206450</data>
+      <data key="d1">0.11491367419844303</data>
+    </edge>
+    <edge source="S:D614G" target="S:L452R">
+      <data key="d0">1108568</data>
+      <data key="d1">0.6170483021497679</data>
+    </edge>
+    <edge source="S:D614G" target="S:T19R">
+      <data key="d0">1124876</data>
+      <data key="d1">0.6261256196543851</data>
+    </edge>
+    <edge source="S:D614G" target="S:P681R">
+      <data key="d0">1127032</data>
+      <data key="d1">0.627325686893774</data>
+    </edge>
+    <edge source="S:D614G" target="ORF7a:V82A">
+      <data key="d0">1074609</data>
+      <data key="d1">0.5981461298944765</data>
+    </edge>
+    <edge source="S:D614G" target="N:D63G">
+      <data key="d0">1124150</data>
+      <data key="d1">0.625721515379897</data>
+    </edge>
+    <edge source="S:D614G" target="S:N969K">
+      <data key="d0">221897</data>
+      <data key="d1">0.12351174407174577</data>
+    </edge>
+    <edge source="S:D614G" target="S:G496S">
+      <data key="d0">203269</data>
+      <data key="d1">0.1131430740646322</data>
+    </edge>
+    <edge source="S:D614G" target="S:L981F">
+      <data key="d0">221369</data>
+      <data key="d1">0.12321785005393623</data>
+    </edge>
+    <edge source="S:D614G" target="S:S375F">
+      <data key="d0">206538</data>
+      <data key="d1">0.11496265653474462</data>
+    </edge>
+    <edge source="S:D614G" target="M:Q19E">
+      <data key="d0">218010</data>
+      <data key="d1">0.12134817201260627</data>
+    </edge>
+    <edge source="S:D614G" target="S:N856K">
+      <data key="d0">221410</data>
+      <data key="d1">0.1232406713697131</data>
+    </edge>
+    <edge source="S:D614G" target="M:A63T">
+      <data key="d0">215145</data>
+      <data key="d1">0.11975346299551477</data>
+    </edge>
+    <edge source="S:D614G" target="S:Q498R">
+      <data key="d0">203371</data>
+      <data key="d1">0.1131998490453454</data>
+    </edge>
+    <edge source="S:D614G" target="S:S371L">
+      <data key="d0">205819</data>
+      <data key="d1">0.11456244858246233</data>
+    </edge>
+    <edge source="S:D614G" target="S:Q954H">
+      <data key="d0">221898</data>
+      <data key="d1">0.12351230068920374</data>
+    </edge>
+    <edge source="N:R203K" target="N:G204R">
+      <data key="d0">543856</data>
+      <data key="d1">0.30271974422314574</data>
+    </edge>
+    <edge source="N:R203K" target="N:D3L">
+      <data key="d0">272344</data>
+      <data key="d1">0.15159142497408945</data>
+    </edge>
+    <edge source="N:R203K" target="S:N501Y">
+      <data key="d0">472089</data>
+      <data key="d1">0.26277297911682623</data>
+    </edge>
+    <edge source="N:R203K" target="S:A570D">
+      <data key="d0">272461</data>
+      <data key="d1">0.15165654921667227</data>
+    </edge>
+    <edge source="N:R203K" target="S:P681H">
+      <data key="d0">494586</data>
+      <data key="d1">0.2752952020688358</data>
+    </edge>
+    <edge source="N:R203K" target="S:T716I">
+      <data key="d0">272459</data>
+      <data key="d1">0.1516554359817563</data>
+    </edge>
+    <edge source="N:R203K" target="S:S982A">
+      <data key="d0">272488</data>
+      <data key="d1">0.1516715778880375</data>
+    </edge>
+    <edge source="N:R203K" target="S:D1118H">
+      <data key="d0">272332</data>
+      <data key="d1">0.15158474556459378</data>
+    </edge>
+    <edge source="N:R203K" target="ORF8:Q27*">
+      <data key="d0">270621</data>
+      <data key="d1">0.15063237309400268</data>
+    </edge>
+    <edge source="N:R203K" target="ORF8:R52I">
+      <data key="d0">270384</data>
+      <data key="d1">0.15050045475646318</data>
+    </edge>
+    <edge source="N:R203K" target="ORF8:Y73C">
+      <data key="d0">270855</data>
+      <data key="d1">0.15076262157916825</data>
+    </edge>
+    <edge source="N:R203K" target="S:T95I">
+      <data key="d0">218150</data>
+      <data key="d1">0.12142609845672243</data>
+    </edge>
+    <edge source="N:R203K" target="S:S477N">
+      <data key="d0">206650</data>
+      <data key="d1">0.11502499769003754</data>
+    </edge>
+    <edge source="N:R203K" target="N:P13L">
+      <data key="d0">221606</data>
+      <data key="d1">0.12334976839147574</data>
+    </edge>
+    <edge source="N:R203K" target="S:T547K">
+      <data key="d0">221031</data>
+      <data key="d1">0.12302971335314149</data>
+    </edge>
+    <edge source="N:R203K" target="S:A67V">
+      <data key="d0">221377</data>
+      <data key="d1">0.12322230299360001</data>
+    </edge>
+    <edge source="N:R203K" target="S:D796Y">
+      <data key="d0">221473</data>
+      <data key="d1">0.12327573826956538</data>
+    </edge>
+    <edge source="N:R203K" target="E:T9I">
+      <data key="d0">221534</data>
+      <data key="d1">0.12330969193450171</data>
+    </edge>
+    <edge source="N:R203K" target="S:H655Y">
+      <data key="d0">222561</data>
+      <data key="d1">0.12388133806383957</data>
+    </edge>
+    <edge source="N:R203K" target="S:Y505H">
+      <data key="d0">202806</data>
+      <data key="d1">0.11288536018159089</data>
+    </edge>
+    <edge source="N:R203K" target="S:E484A">
+      <data key="d0">205944</data>
+      <data key="d1">0.11463202576470889</data>
+    </edge>
+    <edge source="N:R203K" target="M:D3G">
+      <data key="d0">215372</data>
+      <data key="d1">0.11987981515847455</data>
+    </edge>
+    <edge source="N:R203K" target="S:T478K">
+      <data key="d0">206307</data>
+      <data key="d1">0.11483407790195295</data>
+    </edge>
+    <edge source="N:R203K" target="N:S235F">
+      <data key="d0">271687</data>
+      <data key="d1">0.15122572730420145</data>
+    </edge>
+    <edge source="N:R203K" target="S:N679K">
+      <data key="d0">221563</data>
+      <data key="d1">0.12332583384078291</data>
+    </edge>
+    <edge source="N:R203K" target="S:S373P">
+      <data key="d0">206259</data>
+      <data key="d1">0.11480736026397026</data>
+    </edge>
+    <edge source="N:R203K" target="S:N969K">
+      <data key="d0">221530</data>
+      <data key="d1">0.12330746546466982</data>
+    </edge>
+    <edge source="N:R203K" target="S:G496S">
+      <data key="d0">202953</data>
+      <data key="d1">0.11296718294791284</data>
+    </edge>
+    <edge source="N:R203K" target="S:G339D">
+      <data key="d0">218398</data>
+      <data key="d1">0.12156413958629964</data>
+    </edge>
+    <edge source="N:R203K" target="S:Q493R">
+      <data key="d0">206910</data>
+      <data key="d1">0.11516971822911043</data>
+    </edge>
+    <edge source="N:R203K" target="S:S375F">
+      <data key="d0">206294</data>
+      <data key="d1">0.11482684187499931</data>
+    </edge>
+    <edge source="N:R203K" target="M:Q19E">
+      <data key="d0">217679</data>
+      <data key="d1">0.12116393163401734</data>
+    </edge>
+    <edge source="N:R203K" target="S:N856K">
+      <data key="d0">221051</data>
+      <data key="d1">0.12304084570230095</data>
+    </edge>
+    <edge source="N:R203K" target="M:A63T">
+      <data key="d0">214821</data>
+      <data key="d1">0.11957311893913165</data>
+    </edge>
+    <edge source="N:R203K" target="S:Q498R">
+      <data key="d0">203045</data>
+      <data key="d1">0.11301839175404634</data>
+    </edge>
+    <edge source="N:R203K" target="S:S371L">
+      <data key="d0">205667</data>
+      <data key="d1">0.11447784272885049</data>
+    </edge>
+    <edge source="N:R203K" target="S:Q954H">
+      <data key="d0">221529</data>
+      <data key="d1">0.12330690884721185</data>
+    </edge>
+    <edge source="N:R203K" target="S:L981F">
+      <data key="d0">221018</data>
+      <data key="d1">0.12302247732618785</data>
+    </edge>
+    <edge source="N:G204R" target="N:D3L">
+      <data key="d0">271122</data>
+      <data key="d1">0.15091123844044693</data>
+    </edge>
+    <edge source="N:G204R" target="S:N501Y">
+      <data key="d0">470849</data>
+      <data key="d1">0.2620827734689402</data>
+    </edge>
+    <edge source="N:G204R" target="S:A570D">
+      <data key="d0">271239</data>
+      <data key="d1">0.15097636268302975</data>
+    </edge>
+    <edge source="N:G204R" target="S:P681H">
+      <data key="d0">493334</data>
+      <data key="d1">0.2745983170114541</data>
+    </edge>
+    <edge source="N:G204R" target="S:T716I">
+      <data key="d0">271248</data>
+      <data key="d1">0.15098137224015148</data>
+    </edge>
+    <edge source="N:G204R" target="S:S982A">
+      <data key="d0">271266</data>
+      <data key="d1">0.150991391354395</data>
+    </edge>
+    <edge source="N:G204R" target="S:D1118H">
+      <data key="d0">271109</data>
+      <data key="d1">0.1509040024134933</data>
+    </edge>
+    <edge source="N:G204R" target="ORF8:Q27*">
+      <data key="d0">269400</data>
+      <data key="d1">0.14995274317781812</data>
+    </edge>
+    <edge source="N:G204R" target="ORF8:R52I">
+      <data key="d0">269163</data>
+      <data key="d1">0.14982082484027862</data>
+    </edge>
+    <edge source="N:G204R" target="ORF8:Y73C">
+      <data key="d0">269634</data>
+      <data key="d1">0.15008299166298372</data>
+    </edge>
+    <edge source="N:G204R" target="S:T95I">
+      <data key="d0">218501</data>
+      <data key="d1">0.12162147118447082</data>
+    </edge>
+    <edge source="N:G204R" target="S:S477N">
+      <data key="d0">206615</data>
+      <data key="d1">0.11500551607900851</data>
+    </edge>
+    <edge source="N:G204R" target="N:P13L">
+      <data key="d0">221569</data>
+      <data key="d1">0.12332917354553075</data>
+    </edge>
+    <edge source="N:G204R" target="S:T547K">
+      <data key="d0">221002</data>
+      <data key="d1">0.12301357144686029</data>
+    </edge>
+    <edge source="N:G204R" target="S:A67V">
+      <data key="d0">221343</data>
+      <data key="d1">0.12320337800002894</data>
+    </edge>
+    <edge source="N:G204R" target="S:D796Y">
+      <data key="d0">221440</data>
+      <data key="d1">0.12325736989345229</data>
+    </edge>
+    <edge source="N:G204R" target="E:T9I">
+      <data key="d0">221502</data>
+      <data key="d1">0.1232918801758466</data>
+    </edge>
+    <edge source="N:G204R" target="S:H655Y">
+      <data key="d0">222441</data>
+      <data key="d1">0.12381454396888286</data>
+    </edge>
+    <edge source="N:G204R" target="S:Y505H">
+      <data key="d0">202773</data>
+      <data key="d1">0.11286699180547778</data>
+    </edge>
+    <edge source="N:G204R" target="S:E484A">
+      <data key="d0">205911</data>
+      <data key="d1">0.1146136573885958</data>
+    </edge>
+    <edge source="N:G204R" target="M:D3G">
+      <data key="d0">215342</data>
+      <data key="d1">0.11986311663473538</data>
+    </edge>
+    <edge source="N:G204R" target="S:T478K">
+      <data key="d0">206638</data>
+      <data key="d1">0.11501831828054188</data>
+    </edge>
+    <edge source="N:G204R" target="N:S235F">
+      <data key="d0">270480</data>
+      <data key="d1">0.15055389003242853</data>
+    </edge>
+    <edge source="N:G204R" target="S:N679K">
+      <data key="d0">221534</data>
+      <data key="d1">0.12330969193450171</data>
+    </edge>
+    <edge source="N:G204R" target="S:S373P">
+      <data key="d0">206225</data>
+      <data key="d1">0.1147884352703992</data>
+    </edge>
+    <edge source="N:G204R" target="S:N969K">
+      <data key="d0">221498</data>
+      <data key="d1">0.12328965370601469</data>
+    </edge>
+    <edge source="N:G204R" target="S:G496S">
+      <data key="d0">202920</data>
+      <data key="d1">0.11294881457179975</data>
+    </edge>
+    <edge source="N:G204R" target="S:G339D">
+      <data key="d0">218366</data>
+      <data key="d1">0.12154632782764452</data>
+    </edge>
+    <edge source="N:G204R" target="S:Q493R">
+      <data key="d0">206877</data>
+      <data key="d1">0.11515134985299733</data>
+    </edge>
+    <edge source="N:G204R" target="S:S375F">
+      <data key="d0">206261</data>
+      <data key="d1">0.1148084734988862</data>
+    </edge>
+    <edge source="N:G204R" target="M:Q19E">
+      <data key="d0">217648</data>
+      <data key="d1">0.1211466764928202</data>
+    </edge>
+    <edge source="N:G204R" target="S:N856K">
+      <data key="d0">221017</data>
+      <data key="d1">0.12302192070872987</data>
+    </edge>
+    <edge source="N:G204R" target="M:A63T">
+      <data key="d0">214791</data>
+      <data key="d1">0.11955642041539248</data>
+    </edge>
+    <edge source="N:G204R" target="S:Q498R">
+      <data key="d0">203012</data>
+      <data key="d1">0.11300002337793323</data>
+    </edge>
+    <edge source="N:G204R" target="S:S371L">
+      <data key="d0">205633</data>
+      <data key="d1">0.11445891773527941</data>
+    </edge>
+    <edge source="N:G204R" target="S:Q954H">
+      <data key="d0">221497</data>
+      <data key="d1">0.12328909708855672</data>
+    </edge>
+    <edge source="N:G204R" target="S:L981F">
+      <data key="d0">220986</data>
+      <data key="d1">0.12300466556753273</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="S:T19R">
+      <data key="d0">1099504</data>
+      <data key="d1">0.6120031215107044</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="S:T478K">
+      <data key="d0">1083418</data>
+      <data key="d1">0.6030493730817571</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="S:P681R">
+      <data key="d0">1100631</data>
+      <data key="d1">0.6126304293858394</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="S:D950N">
+      <data key="d0">1083393</data>
+      <data key="d1">0.6030354576453077</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="ORF3a:S26L">
+      <data key="d0">1100229</data>
+      <data key="d1">0.6124066691677345</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="M:I82T">
+      <data key="d0">1093255</data>
+      <data key="d1">0.6085248190158336</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="ORF7a:V82A">
+      <data key="d0">1072224</data>
+      <data key="d1">0.5968185972572119</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="N:D63G">
+      <data key="d0">1098630</data>
+      <data key="d1">0.6115166378524363</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="N:R203M">
+      <data key="d0">1098778</data>
+      <data key="d1">0.6115990172362162</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="N:G215C">
+      <data key="d0">1071836</data>
+      <data key="d1">0.5966026296835184</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="N:D377Y">
+      <data key="d0">1100253</data>
+      <data key="d1">0.6124200279867258</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="S:T95I">
+      <data key="d0">780832</data>
+      <data key="d1">0.4346247229436603</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="S:G142D">
+      <data key="d0">854527</data>
+      <data key="d1">0.47564464650895094</data>
+    </edge>
+    <edge source="ORF7a:T120I" target="S:L452R">
+      <data key="d0">1082698</data>
+      <data key="d1">0.6026486085120168</data>
+    </edge>
+    <edge source="M:D3G" target="S:S477N">
+      <data key="d0">203365</data>
+      <data key="d1">0.11319650934059756</data>
+    </edge>
+    <edge source="M:D3G" target="S:N501Y">
+      <data key="d0">200353</data>
+      <data key="d1">0.1115199775571841</data>
+    </edge>
+    <edge source="M:D3G" target="S:P681H">
+      <data key="d0">215653</data>
+      <data key="d1">0.12003622466416486</data>
+    </edge>
+    <edge source="M:D3G" target="S:T478K">
+      <data key="d0">203384</data>
+      <data key="d1">0.11320708507229904</data>
+    </edge>
+    <edge source="M:D3G" target="S:T95I">
+      <data key="d0">211292</data>
+      <data key="d1">0.11760881592994635</data>
+    </edge>
+    <edge source="M:D3G" target="S:A67V">
+      <data key="d0">215371</data>
+      <data key="d1">0.11987925854101658</data>
+    </edge>
+    <edge source="M:D3G" target="S:G339D">
+      <data key="d0">212425</data>
+      <data key="d1">0.1182394635098293</data>
+    </edge>
+    <edge source="M:D3G" target="S:S371L">
+      <data key="d0">203143</data>
+      <data key="d1">0.11307294026492765</data>
+    </edge>
+    <edge source="M:D3G" target="S:S373P">
+      <data key="d0">203330</data>
+      <data key="d1">0.11317702772956852</data>
+    </edge>
+    <edge source="M:D3G" target="S:S375F">
+      <data key="d0">203365</data>
+      <data key="d1">0.11319650934059756</data>
+    </edge>
+    <edge source="M:D3G" target="S:E484A">
+      <data key="d0">203169</data>
+      <data key="d1">0.11308741231883493</data>
+    </edge>
+    <edge source="M:D3G" target="S:Q493R">
+      <data key="d0">204032</data>
+      <data key="d1">0.11356777318506528</data>
+    </edge>
+    <edge source="M:D3G" target="S:G496S">
+      <data key="d0">200479</data>
+      <data key="d1">0.11159011135688864</data>
+    </edge>
+    <edge source="M:D3G" target="S:Q498R">
+      <data key="d0">200204</data>
+      <data key="d1">0.11143704155594618</data>
+    </edge>
+    <edge source="M:D3G" target="S:Y505H">
+      <data key="d0">199949</data>
+      <data key="d1">0.11129510410416317</data>
+    </edge>
+    <edge source="M:D3G" target="S:T547K">
+      <data key="d0">215573</data>
+      <data key="d1">0.11999169526752705</data>
+    </edge>
+    <edge source="M:D3G" target="S:H655Y">
+      <data key="d0">215584</data>
+      <data key="d1">0.11999781805956475</data>
+    </edge>
+    <edge source="M:D3G" target="S:N679K">
+      <data key="d0">215627</data>
+      <data key="d1">0.12002175261025758</data>
+    </edge>
+    <edge source="M:D3G" target="S:D796Y">
+      <data key="d0">215541</data>
+      <data key="d1">0.11997388350887192</data>
+    </edge>
+    <edge source="M:D3G" target="S:N856K">
+      <data key="d0">215596</data>
+      <data key="d1">0.12000449746906042</data>
+    </edge>
+    <edge source="M:D3G" target="S:Q954H">
+      <data key="d0">215611</data>
+      <data key="d1">0.12001284673093</data>
+    </edge>
+    <edge source="M:D3G" target="S:N969K">
+      <data key="d0">215614</data>
+      <data key="d1">0.12001451658330392</data>
+    </edge>
+    <edge source="M:D3G" target="S:L981F">
+      <data key="d0">215533</data>
+      <data key="d1">0.11996943056920814</data>
+    </edge>
+    <edge source="M:D3G" target="E:T9I">
+      <data key="d0">214842</data>
+      <data key="d1">0.11958480790574907</data>
+    </edge>
+    <edge source="M:D3G" target="M:Q19E">
+      <data key="d0">212930</data>
+      <data key="d1">0.11852055532610548</data>
+    </edge>
+    <edge source="M:D3G" target="M:A63T">
+      <data key="d0">209481</data>
+      <data key="d1">0.11660078171355798</data>
+    </edge>
+    <edge source="M:D3G" target="N:P13L">
+      <data key="d0">215489</data>
+      <data key="d1">0.11994493940105735</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="S:N501Y">
+      <data key="d0">266682</data>
+      <data key="d1">0.1484398569270486</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="S:A570D">
+      <data key="d0">271000</data>
+      <data key="d1">0.1508433311105743</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="S:P681H">
+      <data key="d0">270988</data>
+      <data key="d1">0.1508366517010786</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="S:T716I">
+      <data key="d0">270991</data>
+      <data key="d1">0.15083832155345253</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="S:S982A">
+      <data key="d0">271011</data>
+      <data key="d1">0.15084945390261198</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="S:D1118H">
+      <data key="d0">270907</data>
+      <data key="d1">0.15079156568698282</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="ORF8:R52I">
+      <data key="d0">270792</data>
+      <data key="d1">0.15072755467931598</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="ORF8:Y73C">
+      <data key="d0">270335</data>
+      <data key="d1">0.1504731805010225</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="N:D3L">
+      <data key="d0">270899</data>
+      <data key="d1">0.15078711274731904</data>
+    </edge>
+    <edge source="ORF8:Q27*" target="N:S235F">
+      <data key="d0">269752</data>
+      <data key="d1">0.15014867252302447</data>
+    </edge>
+    <edge source="N:D3L" target="S:N501Y">
+      <data key="d0">268344</data>
+      <data key="d1">0.14936495514219905</data>
+    </edge>
+    <edge source="N:D3L" target="S:A570D">
+      <data key="d0">272777</data>
+      <data key="d1">0.1518324403333916</data>
+    </edge>
+    <edge source="N:D3L" target="S:P681H">
+      <data key="d0">272644</data>
+      <data key="d1">0.15175841021148123</data>
+    </edge>
+    <edge source="N:D3L" target="S:T716I">
+      <data key="d0">272744</data>
+      <data key="d1">0.1518140719572785</data>
+    </edge>
+    <edge source="N:D3L" target="S:S982A">
+      <data key="d0">272792</data>
+      <data key="d1">0.15184078959526118</data>
+    </edge>
+    <edge source="N:D3L" target="S:D1118H">
+      <data key="d0">272647</data>
+      <data key="d1">0.15176008006385516</data>
+    </edge>
+    <edge source="N:D3L" target="ORF8:R52I">
+      <data key="d0">270729</data>
+      <data key="d1">0.1506924877794637</data>
+    </edge>
+    <edge source="N:D3L" target="ORF8:Y73C">
+      <data key="d0">271269</data>
+      <data key="d1">0.15099306120676892</data>
+    </edge>
+    <edge source="N:D3L" target="N:S235F">
+      <data key="d0">271539</data>
+      <data key="d1">0.15114334792042153</data>
+    </edge>
+    <edge source="S:N501Y" target="S:H655Y">
+      <data key="d0">204154</data>
+      <data key="d1">0.11363568051493794</data>
+    </edge>
+    <edge source="S:N501Y" target="S:A570D">
+      <data key="d0">268524</data>
+      <data key="d1">0.14946514628463414</data>
+    </edge>
+    <edge source="S:N501Y" target="S:P681H">
+      <data key="d0">471955</data>
+      <data key="d1">0.2626983923774579</data>
+    </edge>
+    <edge source="S:N501Y" target="S:T716I">
+      <data key="d0">268520</data>
+      <data key="d1">0.14946291981480225</data>
+    </edge>
+    <edge source="S:N501Y" target="S:S982A">
+      <data key="d0">268542</data>
+      <data key="d1">0.14947516539887765</data>
+    </edge>
+    <edge source="S:N501Y" target="S:D1118H">
+      <data key="d0">268432</data>
+      <data key="d1">0.14941393747850065</data>
+    </edge>
+    <edge source="S:N501Y" target="ORF8:R52I">
+      <data key="d0">266477</data>
+      <data key="d1">0.14832575034816423</data>
+    </edge>
+    <edge source="S:N501Y" target="ORF8:Y73C">
+      <data key="d0">266937</data>
+      <data key="d1">0.14858179437883162</data>
+    </edge>
+    <edge source="S:N501Y" target="N:S235F">
+      <data key="d0">267286</data>
+      <data key="d1">0.14877605387166407</data>
+    </edge>
+    <edge source="S:N501Y" target="N:P13L">
+      <data key="d0">203460</data>
+      <data key="d1">0.11324938799910496</data>
+    </edge>
+    <edge source="S:N501Y" target="E:T9I">
+      <data key="d0">203385</data>
+      <data key="d1">0.11320764168975701</data>
+    </edge>
+    <edge source="S:N501Y" target="S:T95I">
+      <data key="d0">203652</data>
+      <data key="d1">0.1133562585510357</data>
+    </edge>
+    <edge source="S:N501Y" target="S:A67V">
+      <data key="d0">203333</data>
+      <data key="d1">0.11317869758194243</data>
+    </edge>
+    <edge source="S:N501Y" target="S:G496S">
+      <data key="d0">202831</data>
+      <data key="d1">0.1128992756180402</data>
+    </edge>
+    <edge source="S:N501Y" target="S:S373P">
+      <data key="d0">199488</data>
+      <data key="d1">0.1110385034560378</data>
+    </edge>
+    <edge source="S:N501Y" target="S:G339D">
+      <data key="d0">200983</data>
+      <data key="d1">0.11187064655570683</data>
+    </edge>
+    <edge source="S:N501Y" target="S:D796Y">
+      <data key="d0">203395</data>
+      <data key="d1">0.11321320786433674</data>
+    </edge>
+    <edge source="S:N501Y" target="S:Y505H">
+      <data key="d0">203002</data>
+      <data key="d1">0.11299445720335351</data>
+    </edge>
+    <edge source="S:N501Y" target="S:Q493R">
+      <data key="d0">203008</data>
+      <data key="d1">0.11299779690810134</data>
+    </edge>
+    <edge source="S:N501Y" target="S:S375F">
+      <data key="d0">199505</data>
+      <data key="d1">0.11104796595282333</data>
+    </edge>
+    <edge source="S:N501Y" target="S:S477N">
+      <data key="d0">202121</data>
+      <data key="d1">0.11250407722287965</data>
+    </edge>
+    <edge source="S:N501Y" target="S:T547K">
+      <data key="d0">202984</data>
+      <data key="d1">0.11298443808911</data>
+    </edge>
+    <edge source="S:N501Y" target="S:E484A">
+      <data key="d0">201985</data>
+      <data key="d1">0.11242837724859538</data>
+    </edge>
+    <edge source="S:N501Y" target="M:Q19E">
+      <data key="d0">199680</data>
+      <data key="d1">0.11114537400796853</data>
+    </edge>
+    <edge source="S:N501Y" target="S:N856K">
+      <data key="d0">202965</data>
+      <data key="d1">0.11297386235740853</data>
+    </edge>
+    <edge source="S:N501Y" target="S:N679K">
+      <data key="d0">203438</data>
+      <data key="d1">0.11323714241502957</data>
+    </edge>
+    <edge source="S:N501Y" target="S:T478K">
+      <data key="d0">202262</data>
+      <data key="d1">0.11258256028445379</data>
+    </edge>
+    <edge source="S:N501Y" target="S:Q498R">
+      <data key="d0">203242</data>
+      <data key="d1">0.11312804539326693</data>
+    </edge>
+    <edge source="S:N501Y" target="S:S371L">
+      <data key="d0">198979</data>
+      <data key="d1">0.11075518516992974</data>
+    </edge>
+    <edge source="S:N501Y" target="S:Q954H">
+      <data key="d0">203437</data>
+      <data key="d1">0.11323658579757159</data>
+    </edge>
+    <edge source="S:N501Y" target="S:N969K">
+      <data key="d0">203425</data>
+      <data key="d1">0.11322990638807592</data>
+    </edge>
+    <edge source="S:N501Y" target="S:L981F">
+      <data key="d0">202918</data>
+      <data key="d1">0.11294770133688381</data>
+    </edge>
+    <edge source="S:N501Y" target="M:A63T">
+      <data key="d0">196622</data>
+      <data key="d1">0.10944323782148833</data>
+    </edge>
+    <edge source="S:A570D" target="S:P681H">
+      <data key="d0">272836</data>
+      <data key="d1">0.15186528076341196</data>
+    </edge>
+    <edge source="S:A570D" target="S:T716I">
+      <data key="d0">272906</data>
+      <data key="d1">0.15190424398547006</data>
+    </edge>
+    <edge source="S:A570D" target="S:S982A">
+      <data key="d0">272983</data>
+      <data key="d1">0.15194710352973395</data>
+    </edge>
+    <edge source="S:A570D" target="S:D1118H">
+      <data key="d0">272830</data>
+      <data key="d1">0.15186194105866413</data>
+    </edge>
+    <edge source="S:A570D" target="ORF8:R52I">
+      <data key="d0">270818</data>
+      <data key="d1">0.15074202673322326</data>
+    </edge>
+    <edge source="S:A570D" target="ORF8:Y73C">
+      <data key="d0">271340</data>
+      <data key="d1">0.15103258104628497</data>
+    </edge>
+    <edge source="S:A570D" target="N:S235F">
+      <data key="d0">271689</data>
+      <data key="d1">0.15122684053911742</data>
+    </edge>
+    <edge source="S:P681H" target="S:H655Y">
+      <data key="d0">222201</data>
+      <data key="d1">0.12368095577896944</data>
+    </edge>
+    <edge source="S:P681H" target="S:T716I">
+      <data key="d0">272940</data>
+      <data key="d1">0.15192316897904112</data>
+    </edge>
+    <edge source="S:P681H" target="S:S982A">
+      <data key="d0">272856</data>
+      <data key="d1">0.15187641311257144</data>
+    </edge>
+    <edge source="S:P681H" target="S:D1118H">
+      <data key="d0">272777</data>
+      <data key="d1">0.1518324403333916</data>
+    </edge>
+    <edge source="S:P681H" target="ORF8:R52I">
+      <data key="d0">270776</data>
+      <data key="d1">0.15071864879998842</data>
+    </edge>
+    <edge source="S:P681H" target="ORF8:Y73C">
+      <data key="d0">271224</data>
+      <data key="d1">0.15096801342116015</data>
+    </edge>
+    <edge source="S:P681H" target="N:S235F">
+      <data key="d0">271574</data>
+      <data key="d1">0.15116282953145055</data>
+    </edge>
+    <edge source="S:P681H" target="N:P13L">
+      <data key="d0">221744</data>
+      <data key="d1">0.12342658160067596</data>
+    </edge>
+    <edge source="S:P681H" target="S:D796Y">
+      <data key="d0">221771</data>
+      <data key="d1">0.12344161027204122</data>
+    </edge>
+    <edge source="S:P681H" target="E:T9I">
+      <data key="d0">221752</data>
+      <data key="d1">0.12343103454033974</data>
+    </edge>
+    <edge source="S:P681H" target="S:T95I">
+      <data key="d0">218589</data>
+      <data key="d1">0.12167045352077241</data>
+    </edge>
+    <edge source="S:P681H" target="S:A67V">
+      <data key="d0">221648</data>
+      <data key="d1">0.12337314632471058</data>
+    </edge>
+    <edge source="S:P681H" target="S:T478K">
+      <data key="d0">206667</data>
+      <data key="d1">0.11503446018682309</data>
+    </edge>
+    <edge source="S:P681H" target="S:G496S">
+      <data key="d0">203207</data>
+      <data key="d1">0.1131085637822379</data>
+    </edge>
+    <edge source="S:P681H" target="S:S373P">
+      <data key="d0">206354</data>
+      <data key="d1">0.11486023892247767</data>
+    </edge>
+    <edge source="S:P681H" target="S:G339D">
+      <data key="d0">218526</data>
+      <data key="d1">0.12163538662092013</data>
+    </edge>
+    <edge source="S:P681H" target="S:Y505H">
+      <data key="d0">203057</data>
+      <data key="d1">0.113025071163542</data>
+    </edge>
+    <edge source="S:P681H" target="S:Q493R">
+      <data key="d0">207168</data>
+      <data key="d1">0.11531332553326736</data>
+    </edge>
+    <edge source="S:P681H" target="S:S375F">
+      <data key="d0">206396</data>
+      <data key="d1">0.11488361685571251</data>
+    </edge>
+    <edge source="S:P681H" target="S:S477N">
+      <data key="d0">206418</data>
+      <data key="d1">0.1148958624397879</data>
+    </edge>
+    <edge source="S:P681H" target="S:T547K">
+      <data key="d0">221340</data>
+      <data key="d1">0.12320170814765502</data>
+    </edge>
+    <edge source="S:P681H" target="S:E484A">
+      <data key="d0">206204</data>
+      <data key="d1">0.11477674630378178</data>
+    </edge>
+    <edge source="S:P681H" target="M:Q19E">
+      <data key="d0">217972</data>
+      <data key="d1">0.12132702054920332</data>
+    </edge>
+    <edge source="S:P681H" target="S:N856K">
+      <data key="d0">221365</data>
+      <data key="d1">0.12321562358410434</data>
+    </edge>
+    <edge source="S:P681H" target="M:A63T">
+      <data key="d0">215116</data>
+      <data key="d1">0.11973732108923357</data>
+    </edge>
+    <edge source="S:P681H" target="S:N679K">
+      <data key="d0">221865</data>
+      <data key="d1">0.12349393231309064</data>
+    </edge>
+    <edge source="S:P681H" target="S:Q498R">
+      <data key="d0">203300</data>
+      <data key="d1">0.11316032920582934</data>
+    </edge>
+    <edge source="S:P681H" target="S:S371L">
+      <data key="d0">205751</data>
+      <data key="d1">0.11452459859532019</data>
+    </edge>
+    <edge source="S:P681H" target="S:Q954H">
+      <data key="d0">221830</data>
+      <data key="d1">0.1234744507020616</data>
+    </edge>
+    <edge source="S:P681H" target="S:N969K">
+      <data key="d0">221827</data>
+      <data key="d1">0.12347278084968769</data>
+    </edge>
+    <edge source="S:P681H" target="S:L981F">
+      <data key="d0">221310</data>
+      <data key="d1">0.12318500962391585</data>
+    </edge>
+    <edge source="S:T716I" target="S:S982A">
+      <data key="d0">272925</data>
+      <data key="d1">0.15191481971717155</data>
+    </edge>
+    <edge source="S:T716I" target="S:D1118H">
+      <data key="d0">272824</data>
+      <data key="d1">0.1518586013539163</data>
+    </edge>
+    <edge source="S:T716I" target="ORF8:R52I">
+      <data key="d0">270809</data>
+      <data key="d1">0.15073701717610152</data>
+    </edge>
+    <edge source="S:T716I" target="ORF8:Y73C">
+      <data key="d0">271290</data>
+      <data key="d1">0.15100475017338633</data>
+    </edge>
+    <edge source="S:T716I" target="N:S235F">
+      <data key="d0">271641</data>
+      <data key="d1">0.15120012290113471</data>
+    </edge>
+    <edge source="S:S982A" target="S:D1118H">
+      <data key="d0">272846</data>
+      <data key="d1">0.1518708469379917</data>
+    </edge>
+    <edge source="S:S982A" target="ORF8:R52I">
+      <data key="d0">270833</data>
+      <data key="d1">0.15075037599509286</data>
+    </edge>
+    <edge source="S:S982A" target="ORF8:Y73C">
+      <data key="d0">271357</data>
+      <data key="d1">0.1510420435430705</data>
+    </edge>
+    <edge source="S:S982A" target="N:S235F">
+      <data key="d0">271716</data>
+      <data key="d1">0.15124186921048266</data>
+    </edge>
+    <edge source="S:D1118H" target="ORF8:R52I">
+      <data key="d0">270728</data>
+      <data key="d1">0.15069193116200574</data>
+    </edge>
+    <edge source="S:D1118H" target="ORF8:Y73C">
+      <data key="d0">271219</data>
+      <data key="d1">0.15096523033387027</data>
+    </edge>
+    <edge source="S:D1118H" target="N:S235F">
+      <data key="d0">271561</data>
+      <data key="d1">0.15115559350449692</data>
+    </edge>
+    <edge source="ORF8:R52I" target="ORF8:Y73C">
+      <data key="d0">270299</data>
+      <data key="d1">0.1504531422725355</data>
+    </edge>
+    <edge source="ORF8:R52I" target="N:S235F">
+      <data key="d0">269573</data>
+      <data key="d1">0.1500490379980474</data>
+    </edge>
+    <edge source="ORF8:Y73C" target="N:S235F">
+      <data key="d0">270092</data>
+      <data key="d1">0.15033792245873517</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="N:D377Y">
+      <data key="d0">1124788</data>
+      <data key="d1">0.6260766373180835</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="S:T19R">
+      <data key="d0">1123598</data>
+      <data key="d1">0.6254142625430961</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="S:T478K">
+      <data key="d0">1105988</data>
+      <data key="d1">0.6156122291081987</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="S:P681R">
+      <data key="d0">1125766</data>
+      <data key="d1">0.6266210091919807</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="S:D950N">
+      <data key="d0">1107451</data>
+      <data key="d1">0.6164265604492125</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="M:I82T">
+      <data key="d0">1117645</data>
+      <data key="d1">0.6221007188157852</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="ORF7a:V82A">
+      <data key="d0">1073378</data>
+      <data key="d1">0.5974609338037122</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="N:D63G">
+      <data key="d0">1122893</data>
+      <data key="d1">0.6250218472352255</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="N:R203M">
+      <data key="d0">1123533</data>
+      <data key="d1">0.6253780824083279</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="N:G215C">
+      <data key="d0">1095323</data>
+      <data key="d1">0.6096759039189209</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="S:T95I">
+      <data key="d0">788753</data>
+      <data key="d1">0.43903368982826124</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="S:G142D">
+      <data key="d0">863582</data>
+      <data key="d1">0.4806848175908928</data>
+    </edge>
+    <edge source="ORF3a:S26L" target="S:L452R">
+      <data key="d0">1105851</data>
+      <data key="d1">0.6155359725164564</data>
+    </edge>
+    <edge source="S:T95I" target="S:H655Y">
+      <data key="d0">218109</data>
+      <data key="d1">0.12140327714094556</data>
+    </edge>
+    <edge source="S:T95I" target="N:D377Y">
+      <data key="d0">788908</data>
+      <data key="d1">0.439119965534247</data>
+    </edge>
+    <edge source="S:T95I" target="S:A67V">
+      <data key="d0">218563</data>
+      <data key="d1">0.12165598146686513</data>
+    </edge>
+    <edge source="S:T95I" target="S:S477N">
+      <data key="d0">201942</data>
+      <data key="d1">0.11240444269790255</data>
+    </edge>
+    <edge source="S:T95I" target="S:T19R">
+      <data key="d0">788314</data>
+      <data key="d1">0.4387893347642113</data>
+    </edge>
+    <edge source="S:T95I" target="S:G142D">
+      <data key="d0">703586</data>
+      <data key="d1">0.39162825078510893</data>
+    </edge>
+    <edge source="S:T95I" target="S:L452R">
+      <data key="d0">785496</data>
+      <data key="d1">0.4372207867676445</data>
+    </edge>
+    <edge source="S:T95I" target="S:T478K">
+      <data key="d0">986894</data>
+      <data key="d1">0.5493224295684099</data>
+    </edge>
+    <edge source="S:T95I" target="S:P681R">
+      <data key="d0">789137</data>
+      <data key="d1">0.4392474309321227</data>
+    </edge>
+    <edge source="S:T95I" target="S:D950N">
+      <data key="d0">776024</data>
+      <data key="d1">0.43194850620572806</data>
+    </edge>
+    <edge source="S:T95I" target="M:I82T">
+      <data key="d0">783109</data>
+      <data key="d1">0.4358921408954639</data>
+    </edge>
+    <edge source="S:T95I" target="ORF7a:V82A">
+      <data key="d0">758559</data>
+      <data key="d1">0.4222271823022366</data>
+    </edge>
+    <edge source="S:T95I" target="N:D63G">
+      <data key="d0">786948</data>
+      <data key="d1">0.4380289953166207</data>
+    </edge>
+    <edge source="S:T95I" target="N:R203M">
+      <data key="d0">788164</data>
+      <data key="d1">0.4387058421455154</data>
+    </edge>
+    <edge source="S:T95I" target="N:G215C">
+      <data key="d0">786718</data>
+      <data key="d1">0.437900973301287</data>
+    </edge>
+    <edge source="S:T95I" target="S:D796Y">
+      <data key="d0">217660</data>
+      <data key="d1">0.12115335590231587</data>
+    </edge>
+    <edge source="S:T95I" target="S:Q493R">
+      <data key="d0">202501</data>
+      <data key="d1">0.11271559185690924</data>
+    </edge>
+    <edge source="S:T95I" target="N:P13L">
+      <data key="d0">217164</data>
+      <data key="d1">0.12087727364316145</data>
+    </edge>
+    <edge source="S:T95I" target="M:A63T">
+      <data key="d0">210347</data>
+      <data key="d1">0.11708281243216224</data>
+    </edge>
+    <edge source="S:T95I" target="S:T547K">
+      <data key="d0">217061</data>
+      <data key="d1">0.12081994204499028</data>
+    </edge>
+    <edge source="S:T95I" target="E:T9I">
+      <data key="d0">216729</data>
+      <data key="d1">0.12063514504894338</data>
+    </edge>
+    <edge source="S:T95I" target="S:S375F">
+      <data key="d0">201794</data>
+      <data key="d1">0.1123220633141226</data>
+    </edge>
+    <edge source="S:T95I" target="S:Q498R">
+      <data key="d0">202688</data>
+      <data key="d1">0.11281967932155011</data>
+    </edge>
+    <edge source="S:T95I" target="S:G339D">
+      <data key="d0">213954</data>
+      <data key="d1">0.11909053160306941</data>
+    </edge>
+    <edge source="S:T95I" target="S:L981F">
+      <data key="d0">216987</data>
+      <data key="d1">0.1207787523531003</data>
+    </edge>
+    <edge source="S:T95I" target="S:S373P">
+      <data key="d0">201695</data>
+      <data key="d1">0.11226695818578332</data>
+    </edge>
+    <edge source="S:T95I" target="S:N856K">
+      <data key="d0">217035</data>
+      <data key="d1">0.12080546999108299</data>
+    </edge>
+    <edge source="S:T95I" target="S:Y505H">
+      <data key="d0">202449</data>
+      <data key="d1">0.11268664774909466</data>
+    </edge>
+    <edge source="S:T95I" target="S:N679K">
+      <data key="d0">217078</data>
+      <data key="d1">0.1208294045417758</data>
+    </edge>
+    <edge source="S:T95I" target="S:E484A">
+      <data key="d0">201566</data>
+      <data key="d1">0.11219515453370486</data>
+    </edge>
+    <edge source="S:T95I" target="M:Q19E">
+      <data key="d0">213226</data>
+      <data key="d1">0.11868531409366535</data>
+    </edge>
+    <edge source="S:T95I" target="S:N969K">
+      <data key="d0">217084</data>
+      <data key="d1">0.12083274424652364</data>
+    </edge>
+    <edge source="S:T95I" target="S:G496S">
+      <data key="d0">202660</data>
+      <data key="d1">0.11280409403272688</data>
+    </edge>
+    <edge source="S:T95I" target="S:S371L">
+      <data key="d0">201506</data>
+      <data key="d1">0.1121617574862265</data>
+    </edge>
+    <edge source="S:T95I" target="S:Q954H">
+      <data key="d0">217088</data>
+      <data key="d1">0.12083497071635553</data>
+    </edge>
+    <edge source="S:D796Y" target="S:H655Y">
+      <data key="d0">221738</data>
+      <data key="d1">0.12342324189592813</data>
+    </edge>
+    <edge source="S:D796Y" target="N:P13L">
+      <data key="d0">221626</data>
+      <data key="d1">0.12336090074063519</data>
+    </edge>
+    <edge source="S:D796Y" target="S:T478K">
+      <data key="d0">207227</data>
+      <data key="d1">0.11534616596328774</data>
+    </edge>
+    <edge source="S:D796Y" target="S:A67V">
+      <data key="d0">221077</data>
+      <data key="d1">0.12305531775620823</data>
+    </edge>
+    <edge source="S:D796Y" target="S:G339D">
+      <data key="d0">218486</data>
+      <data key="d1">0.12161312192260124</data>
+    </edge>
+    <edge source="S:D796Y" target="S:S371L">
+      <data key="d0">205741</data>
+      <data key="d1">0.11451903242074046</data>
+    </edge>
+    <edge source="S:D796Y" target="S:S373P">
+      <data key="d0">206334</data>
+      <data key="d1">0.1148491065733182</data>
+    </edge>
+    <edge source="S:D796Y" target="S:S375F">
+      <data key="d0">206376</data>
+      <data key="d1">0.11487248450655306</data>
+    </edge>
+    <edge source="S:D796Y" target="S:S477N">
+      <data key="d0">206326</data>
+      <data key="d1">0.11484465363365443</data>
+    </edge>
+    <edge source="S:D796Y" target="S:E484A">
+      <data key="d0">206145</data>
+      <data key="d1">0.11474390587376139</data>
+    </edge>
+    <edge source="S:D796Y" target="S:Q493R">
+      <data key="d0">207061</data>
+      <data key="d1">0.11525376746526429</data>
+    </edge>
+    <edge source="S:D796Y" target="S:G496S">
+      <data key="d0">203083</data>
+      <data key="d1">0.11303954321744929</data>
+    </edge>
+    <edge source="S:D796Y" target="S:Q498R">
+      <data key="d0">203239</data>
+      <data key="d1">0.11312637554089301</data>
+    </edge>
+    <edge source="S:D796Y" target="S:Y505H">
+      <data key="d0">202991</data>
+      <data key="d1">0.11298833441131581</data>
+    </edge>
+    <edge source="S:D796Y" target="S:T547K">
+      <data key="d0">221259</data>
+      <data key="d1">0.12315662213355924</data>
+    </edge>
+    <edge source="S:D796Y" target="S:N679K">
+      <data key="d0">221756</data>
+      <data key="d1">0.12343326101017163</data>
+    </edge>
+    <edge source="S:D796Y" target="S:N856K">
+      <data key="d0">221320</data>
+      <data key="d1">0.12319057579849557</data>
+    </edge>
+    <edge source="S:D796Y" target="S:Q954H">
+      <data key="d0">221773</data>
+      <data key="d1">0.12344272350695716</data>
+    </edge>
+    <edge source="S:D796Y" target="S:N969K">
+      <data key="d0">221773</data>
+      <data key="d1">0.12344272350695716</data>
+    </edge>
+    <edge source="S:D796Y" target="S:L981F">
+      <data key="d0">221257</data>
+      <data key="d1">0.1231555088986433</data>
+    </edge>
+    <edge source="S:D796Y" target="E:T9I">
+      <data key="d0">220947</data>
+      <data key="d1">0.12298295748667179</data>
+    </edge>
+    <edge source="S:D796Y" target="M:Q19E">
+      <data key="d0">217889</data>
+      <data key="d1">0.12128082130019159</data>
+    </edge>
+    <edge source="S:D796Y" target="M:A63T">
+      <data key="d0">214854</data>
+      <data key="d1">0.11959148731524476</data>
+    </edge>
+    <edge source="N:R203M" target="N:D377Y">
+      <data key="d0">1123348</data>
+      <data key="d1">0.625275108178603</data>
+    </edge>
+    <edge source="N:R203M" target="S:G142D">
+      <data key="d0">863046</data>
+      <data key="d1">0.48038647063341955</data>
+    </edge>
+    <edge source="N:R203M" target="S:T19R">
+      <data key="d0">1122023</data>
+      <data key="d1">0.6245375900467892</data>
+    </edge>
+    <edge source="N:R203M" target="S:T478K">
+      <data key="d0">1104431</data>
+      <data key="d1">0.6147455757261353</data>
+    </edge>
+    <edge source="N:R203M" target="S:P681R">
+      <data key="d0">1123992</data>
+      <data key="d1">0.6256335698215373</data>
+    </edge>
+    <edge source="N:R203M" target="S:D950N">
+      <data key="d0">1105867</data>
+      <data key="d1">0.615544878395784</data>
+    </edge>
+    <edge source="N:R203M" target="M:I82T">
+      <data key="d0">1116009</data>
+      <data key="d1">0.6211900926545421</data>
+    </edge>
+    <edge source="N:R203M" target="ORF7a:V82A">
+      <data key="d0">1071988</data>
+      <data key="d1">0.5966872355371303</data>
+    </edge>
+    <edge source="N:R203M" target="N:D63G">
+      <data key="d0">1121263</data>
+      <data key="d1">0.6241145607787301</data>
+    </edge>
+    <edge source="N:R203M" target="N:G215C">
+      <data key="d0">1095332</data>
+      <data key="d1">0.6096809134760426</data>
+    </edge>
+    <edge source="N:R203M" target="S:L452R">
+      <data key="d0">1104436</data>
+      <data key="d1">0.6147483588134252</data>
+    </edge>
+    <edge source="N:D377Y" target="S:T19R">
+      <data key="d0">1123286</data>
+      <data key="d1">0.6252405978962087</data>
+    </edge>
+    <edge source="N:D377Y" target="S:T478K">
+      <data key="d0">1105531</data>
+      <data key="d1">0.6153578549299051</data>
+    </edge>
+    <edge source="N:D377Y" target="S:P681R">
+      <data key="d0">1125240</data>
+      <data key="d1">0.6263282284090871</data>
+    </edge>
+    <edge source="N:D377Y" target="S:D950N">
+      <data key="d0">1107099</data>
+      <data key="d1">0.6162306311040062</data>
+    </edge>
+    <edge source="N:D377Y" target="M:I82T">
+      <data key="d0">1117205</data>
+      <data key="d1">0.6218558071342772</data>
+    </edge>
+    <edge source="N:D377Y" target="ORF7a:V82A">
+      <data key="d0">1073422</data>
+      <data key="d1">0.597485424971863</data>
+    </edge>
+    <edge source="N:D377Y" target="N:D63G">
+      <data key="d0">1122498</data>
+      <data key="d1">0.6248019833393262</data>
+    </edge>
+    <edge source="N:D377Y" target="N:G215C">
+      <data key="d0">1095166</data>
+      <data key="d1">0.6095885149780191</data>
+    </edge>
+    <edge source="N:D377Y" target="S:G142D">
+      <data key="d0">863952</data>
+      <data key="d1">0.4808907660503427</data>
+    </edge>
+    <edge source="N:D377Y" target="S:L452R">
+      <data key="d0">1105542</data>
+      <data key="d1">0.6153639777219428</data>
+    </edge>
+    <edge source="N:P13L" target="S:H655Y">
+      <data key="d0">221663</data>
+      <data key="d1">0.12338149558658018</data>
+    </edge>
+    <edge source="N:P13L" target="S:S477N">
+      <data key="d0">206251</data>
+      <data key="d1">0.11480290732430648</data>
+    </edge>
+    <edge source="N:P13L" target="S:T478K">
+      <data key="d0">206587</data>
+      <data key="d1">0.11498993079018528</data>
+    </edge>
+    <edge source="N:P13L" target="S:N679K">
+      <data key="d0">221704</data>
+      <data key="d1">0.12340431690235705</data>
+    </edge>
+    <edge source="N:P13L" target="S:A67V">
+      <data key="d0">221022</data>
+      <data key="d1">0.12302470379601974</data>
+    </edge>
+    <edge source="N:P13L" target="S:G339D">
+      <data key="d0">218392</data>
+      <data key="d1">0.1215607998815518</data>
+    </edge>
+    <edge source="N:P13L" target="S:S371L">
+      <data key="d0">205635</data>
+      <data key="d1">0.11446003097019536</data>
+    </edge>
+    <edge source="N:P13L" target="S:S373P">
+      <data key="d0">206214</data>
+      <data key="d1">0.1147823124783615</data>
+    </edge>
+    <edge source="N:P13L" target="S:S375F">
+      <data key="d0">206256</data>
+      <data key="d1">0.11480569041159634</data>
+    </edge>
+    <edge source="N:P13L" target="S:E484A">
+      <data key="d0">206067</data>
+      <data key="d1">0.11470048971203953</data>
+    </edge>
+    <edge source="N:P13L" target="S:Q493R">
+      <data key="d0">206999</data>
+      <data key="d1">0.11521925718286999</data>
+    </edge>
+    <edge source="N:P13L" target="S:G496S">
+      <data key="d0">203021</data>
+      <data key="d1">0.11300503293505498</data>
+    </edge>
+    <edge source="N:P13L" target="S:Q498R">
+      <data key="d0">203173</data>
+      <data key="d1">0.11308963878866682</data>
+    </edge>
+    <edge source="N:P13L" target="S:Y505H">
+      <data key="d0">202924</data>
+      <data key="d1">0.11295104104163164</data>
+    </edge>
+    <edge source="N:P13L" target="S:T547K">
+      <data key="d0">221206</data>
+      <data key="d1">0.1231271214082867</data>
+    </edge>
+    <edge source="N:P13L" target="S:N856K">
+      <data key="d0">221238</data>
+      <data key="d1">0.12314493316694182</data>
+    </edge>
+    <edge source="N:P13L" target="S:Q954H">
+      <data key="d0">221727</data>
+      <data key="d1">0.12341711910389042</data>
+    </edge>
+    <edge source="N:P13L" target="S:N969K">
+      <data key="d0">221724</data>
+      <data key="d1">0.1234154492515165</data>
+    </edge>
+    <edge source="N:P13L" target="S:L981F">
+      <data key="d0">221210</data>
+      <data key="d1">0.12312934787811859</data>
+    </edge>
+    <edge source="N:P13L" target="E:T9I">
+      <data key="d0">220890</data>
+      <data key="d1">0.12295123029156736</data>
+    </edge>
+    <edge source="N:P13L" target="M:Q19E">
+      <data key="d0">217831</data>
+      <data key="d1">0.12124853748762918</data>
+    </edge>
+    <edge source="N:P13L" target="M:A63T">
+      <data key="d0">214801</data>
+      <data key="d1">0.1195619865899722</data>
+    </edge>
+    <edge source="S:S477N" target="S:H655Y">
+      <data key="d0">207050</data>
+      <data key="d1">0.1152476446732266</data>
+    </edge>
+    <edge source="S:S477N" target="E:T9I">
+      <data key="d0">205627</data>
+      <data key="d1">0.11445557803053158</data>
+    </edge>
+    <edge source="S:S477N" target="S:A67V">
+      <data key="d0">205742</data>
+      <data key="d1">0.11451958903819844</data>
+    </edge>
+    <edge source="S:S477N" target="S:N679K">
+      <data key="d0">206400</data>
+      <data key="d1">0.1148858433255444</data>
+    </edge>
+    <edge source="S:S477N" target="S:T478K">
+      <data key="d0">206565</data>
+      <data key="d1">0.11497768520610988</data>
+    </edge>
+    <edge source="S:S477N" target="S:G339D">
+      <data key="d0">203919</data>
+      <data key="d1">0.11350487541231438</data>
+    </edge>
+    <edge source="S:S477N" target="S:S371L">
+      <data key="d0">202256</data>
+      <data key="d1">0.11257922057970594</data>
+    </edge>
+    <edge source="S:S477N" target="S:S373P">
+      <data key="d0">202797</data>
+      <data key="d1">0.11288035062446912</data>
+    </edge>
+    <edge source="S:S477N" target="S:S375F">
+      <data key="d0">202804</data>
+      <data key="d1">0.11288424694667494</data>
+    </edge>
+    <edge source="S:S477N" target="S:E484A">
+      <data key="d0">205862</data>
+      <data key="d1">0.11458638313315514</data>
+    </edge>
+    <edge source="S:S477N" target="S:Q493R">
+      <data key="d0">206102</data>
+      <data key="d1">0.11471997132306856</data>
+    </edge>
+    <edge source="S:S477N" target="S:G496S">
+      <data key="d0">201971</data>
+      <data key="d1">0.11242058460418376</data>
+    </edge>
+    <edge source="S:S477N" target="S:Q498R">
+      <data key="d0">202092</data>
+      <data key="d1">0.11248793531659844</data>
+    </edge>
+    <edge source="S:S477N" target="S:Y505H">
+      <data key="d0">201956</data>
+      <data key="d1">0.11241223534231418</data>
+    </edge>
+    <edge source="S:S477N" target="S:T547K">
+      <data key="d0">205933</data>
+      <data key="d1">0.1146259029726712</data>
+    </edge>
+    <edge source="S:S477N" target="S:N856K">
+      <data key="d0">205942</data>
+      <data key="d1">0.11463091252979295</data>
+    </edge>
+    <edge source="S:S477N" target="S:Q954H">
+      <data key="d0">206393</data>
+      <data key="d1">0.11488194700333859</data>
+    </edge>
+    <edge source="S:S477N" target="S:N969K">
+      <data key="d0">206390</data>
+      <data key="d1">0.11488027715096467</data>
+    </edge>
+    <edge source="S:S477N" target="S:L981F">
+      <data key="d0">205885</data>
+      <data key="d1">0.1145991853346885</data>
+    </edge>
+    <edge source="S:S477N" target="M:Q19E">
+      <data key="d0">202685</data>
+      <data key="d1">0.1128180094691762</data>
+    </edge>
+    <edge source="S:S477N" target="M:A63T">
+      <data key="d0">199648</data>
+      <data key="d1">0.11112756224931342</data>
+    </edge>
+    <edge source="S:T547K" target="S:H655Y">
+      <data key="d0">221357</data>
+      <data key="d1">0.12321117064444057</data>
+    </edge>
+    <edge source="S:T547K" target="S:T478K">
+      <data key="d0">206025</data>
+      <data key="d1">0.11467711177880467</data>
+    </edge>
+    <edge source="S:T547K" target="S:A67V">
+      <data key="d0">221087</data>
+      <data key="d1">0.12306088393078796</data>
+    </edge>
+    <edge source="S:T547K" target="S:G339D">
+      <data key="d0">218049</data>
+      <data key="d1">0.1213698800934672</data>
+    </edge>
+    <edge source="S:T547K" target="S:S371L">
+      <data key="d0">205717</data>
+      <data key="d1">0.11450567360174911</data>
+    </edge>
+    <edge source="S:T547K" target="S:S373P">
+      <data key="d0">205875</data>
+      <data key="d1">0.11459361916010878</data>
+    </edge>
+    <edge source="S:T547K" target="S:S375F">
+      <data key="d0">205917</data>
+      <data key="d1">0.11461699709334364</data>
+    </edge>
+    <edge source="S:T547K" target="S:E484A">
+      <data key="d0">205750</data>
+      <data key="d1">0.11452404197786221</data>
+    </edge>
+    <edge source="S:T547K" target="S:Q493R">
+      <data key="d0">206680</data>
+      <data key="d1">0.11504169621377673</data>
+    </edge>
+    <edge source="S:T547K" target="S:G496S">
+      <data key="d0">203133</data>
+      <data key="d1">0.11306737409034792</data>
+    </edge>
+    <edge source="S:T547K" target="S:Q498R">
+      <data key="d0">202863</data>
+      <data key="d1">0.11291708737669531</data>
+    </edge>
+    <edge source="S:T547K" target="S:Y505H">
+      <data key="d0">202613</data>
+      <data key="d1">0.11277793301220217</data>
+    </edge>
+    <edge source="S:T547K" target="S:N679K">
+      <data key="d0">221357</data>
+      <data key="d1">0.12321117064444057</data>
+    </edge>
+    <edge source="S:T547K" target="S:N856K">
+      <data key="d0">221309</data>
+      <data key="d1">0.12318445300645788</data>
+    </edge>
+    <edge source="S:T547K" target="S:Q954H">
+      <data key="d0">221358</data>
+      <data key="d1">0.12321172726189854</data>
+    </edge>
+    <edge source="S:T547K" target="S:N969K">
+      <data key="d0">221350</data>
+      <data key="d1">0.12320727432223476</data>
+    </edge>
+    <edge source="S:T547K" target="S:L981F">
+      <data key="d0">221266</data>
+      <data key="d1">0.12316051845576505</data>
+    </edge>
+    <edge source="S:T547K" target="E:T9I">
+      <data key="d0">220546</data>
+      <data key="d1">0.12275975388602478</data>
+    </edge>
+    <edge source="S:T547K" target="M:Q19E">
+      <data key="d0">217526</data>
+      <data key="d1">0.12107876916294753</data>
+    </edge>
+    <edge source="S:T547K" target="M:A63T">
+      <data key="d0">214452</data>
+      <data key="d1">0.11936772709713976</data>
+    </edge>
+    <edge source="E:T9I" target="S:H655Y">
+      <data key="d0">220992</data>
+      <data key="d1">0.12300800527228056</data>
+    </edge>
+    <edge source="E:T9I" target="S:T478K">
+      <data key="d0">206232</data>
+      <data key="d1">0.114792331592605</data>
+    </edge>
+    <edge source="E:T9I" target="S:A67V">
+      <data key="d0">220350</data>
+      <data key="d1">0.12265065686426216</data>
+    </edge>
+    <edge source="E:T9I" target="S:G339D">
+      <data key="d0">217819</data>
+      <data key="d1">0.12124185807813351</data>
+    </edge>
+    <edge source="E:T9I" target="S:S371L">
+      <data key="d0">205082</data>
+      <data key="d1">0.11415222151593651</data>
+    </edge>
+    <edge source="E:T9I" target="S:S373P">
+      <data key="d0">205653</data>
+      <data key="d1">0.11447005008443886</data>
+    </edge>
+    <edge source="E:T9I" target="S:S375F">
+      <data key="d0">205695</data>
+      <data key="d1">0.11449342801767372</data>
+    </edge>
+    <edge source="E:T9I" target="S:E484A">
+      <data key="d0">205433</data>
+      <data key="d1">0.1143475942436849</data>
+    </edge>
+    <edge source="E:T9I" target="S:Q493R">
+      <data key="d0">206358</data>
+      <data key="d1">0.11486246539230956</data>
+    </edge>
+    <edge source="E:T9I" target="S:G496S">
+      <data key="d0">202384</data>
+      <data key="d1">0.11265046761432644</data>
+    </edge>
+    <edge source="E:T9I" target="S:Q498R">
+      <data key="d0">202531</data>
+      <data key="d1">0.11273229038064841</data>
+    </edge>
+    <edge source="E:T9I" target="S:Y505H">
+      <data key="d0">202283</data>
+      <data key="d1">0.11259424925107121</data>
+    </edge>
+    <edge source="E:T9I" target="S:N679K">
+      <data key="d0">221029</data>
+      <data key="d1">0.12302860011822554</data>
+    </edge>
+    <edge source="E:T9I" target="S:N856K">
+      <data key="d0">220563</data>
+      <data key="d1">0.12276921638281031</data>
+    </edge>
+    <edge source="E:T9I" target="S:Q954H">
+      <data key="d0">221034</data>
+      <data key="d1">0.1230313832055154</data>
+    </edge>
+    <edge source="E:T9I" target="S:N969K">
+      <data key="d0">221028</data>
+      <data key="d1">0.12302804350076757</data>
+    </edge>
+    <edge source="E:T9I" target="S:L981F">
+      <data key="d0">220524</data>
+      <data key="d1">0.12274750830194939</data>
+    </edge>
+    <edge source="E:T9I" target="M:Q19E">
+      <data key="d0">217583</data>
+      <data key="d1">0.12111049635805197</data>
+    </edge>
+    <edge source="E:T9I" target="M:A63T">
+      <data key="d0">214158</data>
+      <data key="d1">0.11920408156449581</data>
+    </edge>
+    <edge source="S:A67V" target="S:H655Y">
+      <data key="d0">221131</data>
+      <data key="d1">0.12308537509893876</data>
+    </edge>
+    <edge source="S:A67V" target="S:T478K">
+      <data key="d0">209926</data>
+      <data key="d1">0.11684847648235579</data>
+    </edge>
+    <edge source="S:A67V" target="S:Q498R">
+      <data key="d0">202658</data>
+      <data key="d1">0.11280298079781094</data>
+    </edge>
+    <edge source="S:A67V" target="S:G339D">
+      <data key="d0">218021</data>
+      <data key="d1">0.12135429480464396</data>
+    </edge>
+    <edge source="S:A67V" target="S:S371L">
+      <data key="d0">205680</data>
+      <data key="d1">0.11448507875580413</data>
+    </edge>
+    <edge source="S:A67V" target="S:S373P">
+      <data key="d0">205857</data>
+      <data key="d1">0.11458360004586528</data>
+    </edge>
+    <edge source="S:A67V" target="S:S375F">
+      <data key="d0">205898</data>
+      <data key="d1">0.11460642136164216</data>
+    </edge>
+    <edge source="S:A67V" target="S:E484A">
+      <data key="d0">205558</data>
+      <data key="d1">0.11441717142593147</data>
+    </edge>
+    <edge source="S:A67V" target="S:Q493R">
+      <data key="d0">206470</data>
+      <data key="d1">0.11492480654760248</data>
+    </edge>
+    <edge source="S:A67V" target="S:G496S">
+      <data key="d0">202919</data>
+      <data key="d1">0.11294825795434178</data>
+    </edge>
+    <edge source="S:A67V" target="S:Y505H">
+      <data key="d0">202414</data>
+      <data key="d1">0.11266716613806563</data>
+    </edge>
+    <edge source="S:A67V" target="S:N679K">
+      <data key="d0">221169</data>
+      <data key="d1">0.12310652656234171</data>
+    </edge>
+    <edge source="S:A67V" target="S:N856K">
+      <data key="d0">221132</data>
+      <data key="d1">0.12308593171639673</data>
+    </edge>
+    <edge source="S:A67V" target="S:Q954H">
+      <data key="d0">221170</data>
+      <data key="d1">0.12310708317979968</data>
+    </edge>
+    <edge source="S:A67V" target="S:N969K">
+      <data key="d0">221174</data>
+      <data key="d1">0.12310930964963157</data>
+    </edge>
+    <edge source="S:A67V" target="S:L981F">
+      <data key="d0">221083</data>
+      <data key="d1">0.12305865746095607</data>
+    </edge>
+    <edge source="S:A67V" target="M:Q19E">
+      <data key="d0">217305</data>
+      <data key="d1">0.12095575670473559</data>
+    </edge>
+    <edge source="S:A67V" target="M:A63T">
+      <data key="d0">214267</data>
+      <data key="d1">0.11926475286741484</data>
+    </edge>
+    <edge source="S:D950N" target="S:G142D">
+      <data key="d0">862365</data>
+      <data key="d1">0.4800074141445402</data>
+    </edge>
+    <edge source="S:D950N" target="S:T19R">
+      <data key="d0">1106456</data>
+      <data key="d1">0.6158727260785298</data>
+    </edge>
+    <edge source="S:D950N" target="S:T478K">
+      <data key="d0">1088987</data>
+      <data key="d1">0.6061491757052064</data>
+    </edge>
+    <edge source="S:D950N" target="S:P681R">
+      <data key="d0">1107888</data>
+      <data key="d1">0.6166698022783466</data>
+    </edge>
+    <edge source="S:D950N" target="M:I82T">
+      <data key="d0">1100416</data>
+      <data key="d1">0.6125107566323753</data>
+    </edge>
+    <edge source="S:D950N" target="ORF7a:V82A">
+      <data key="d0">1056465</data>
+      <data key="d1">0.5880468627370217</data>
+    </edge>
+    <edge source="S:D950N" target="N:D63G">
+      <data key="d0">1106054</data>
+      <data key="d1">0.6156489658604248</data>
+    </edge>
+    <edge source="S:D950N" target="N:G215C">
+      <data key="d0">1078850</data>
+      <data key="d1">0.6005067445337382</data>
+    </edge>
+    <edge source="S:D950N" target="S:L452R">
+      <data key="d0">1088414</data>
+      <data key="d1">0.6058302339017881</data>
+    </edge>
+    <edge source="N:G215C" target="S:G142D">
+      <data key="d0">844740</data>
+      <data key="d1">0.47019703144777314</data>
+    </edge>
+    <edge source="N:G215C" target="S:T19R">
+      <data key="d0">1094392</data>
+      <data key="d1">0.6091576930655483</data>
+    </edge>
+    <edge source="N:G215C" target="S:T478K">
+      <data key="d0">1077409</data>
+      <data key="d1">0.5997046587767998</data>
+    </edge>
+    <edge source="N:G215C" target="S:P681R">
+      <data key="d0">1095731</data>
+      <data key="d1">0.6099030038417736</data>
+    </edge>
+    <edge source="N:G215C" target="M:I82T">
+      <data key="d0">1088321</data>
+      <data key="d1">0.6057784684781967</data>
+    </edge>
+    <edge source="N:G215C" target="ORF7a:V82A">
+      <data key="d0">1044840</data>
+      <data key="d1">0.5815761847880901</data>
+    </edge>
+    <edge source="N:G215C" target="N:D63G">
+      <data key="d0">1093637</data>
+      <data key="d1">0.608737446884779</data>
+    </edge>
+    <edge source="N:G215C" target="S:L452R">
+      <data key="d0">1076829</data>
+      <data key="d1">0.5993818206511756</data>
+    </edge>
+    <edge source="S:H655Y" target="S:N679K">
+      <data key="d0">221826</data>
+      <data key="d1">0.12347222423222971</data>
+    </edge>
+    <edge source="S:H655Y" target="S:T478K">
+      <data key="d0">207651</data>
+      <data key="d1">0.11558217176546812</data>
+    </edge>
+    <edge source="S:H655Y" target="S:N856K">
+      <data key="d0">221340</data>
+      <data key="d1">0.12320170814765502</data>
+    </edge>
+    <edge source="S:H655Y" target="S:G339D">
+      <data key="d0">218516</data>
+      <data key="d1">0.12162982044634041</data>
+    </edge>
+    <edge source="S:H655Y" target="S:S371L">
+      <data key="d0">205751</data>
+      <data key="d1">0.11452459859532019</data>
+    </edge>
+    <edge source="S:H655Y" target="S:S373P">
+      <data key="d0">206334</data>
+      <data key="d1">0.1148491065733182</data>
+    </edge>
+    <edge source="S:H655Y" target="S:S375F">
+      <data key="d0">206375</data>
+      <data key="d1">0.11487192788909509</data>
+    </edge>
+    <edge source="S:H655Y" target="S:E484A">
+      <data key="d0">206179</data>
+      <data key="d1">0.11476283086733245</data>
+    </edge>
+    <edge source="S:H655Y" target="S:Q493R">
+      <data key="d0">207110</data>
+      <data key="d1">0.11528104172070494</data>
+    </edge>
+    <edge source="S:H655Y" target="S:G496S">
+      <data key="d0">203131</data>
+      <data key="d1">0.11306626085543198</data>
+    </edge>
+    <edge source="S:H655Y" target="S:Q498R">
+      <data key="d0">203282</data>
+      <data key="d1">0.11315031009158584</data>
+    </edge>
+    <edge source="S:H655Y" target="S:Y505H">
+      <data key="d0">203034</data>
+      <data key="d1">0.11301226896200864</data>
+    </edge>
+    <edge source="S:H655Y" target="S:Q954H">
+      <data key="d0">221804</data>
+      <data key="d1">0.1234599786481543</data>
+    </edge>
+    <edge source="S:H655Y" target="S:N969K">
+      <data key="d0">221800</data>
+      <data key="d1">0.12345775217832242</data>
+    </edge>
+    <edge source="S:H655Y" target="S:L981F">
+      <data key="d0">221284</data>
+      <data key="d1">0.12317053757000856</data>
+    </edge>
+    <edge source="S:H655Y" target="M:Q19E">
+      <data key="d0">217983</data>
+      <data key="d1">0.12133314334124101</data>
+    </edge>
+    <edge source="S:H655Y" target="M:A63T">
+      <data key="d0">214900</data>
+      <data key="d1">0.11961709171831149</data>
+    </edge>
+    <edge source="S:Y505H" target="S:G496S">
+      <data key="d0">202403</data>
+      <data key="d1">0.11266104334602792</data>
+    </edge>
+    <edge source="S:Y505H" target="S:T478K">
+      <data key="d0">201956</data>
+      <data key="d1">0.11241223534231418</data>
+    </edge>
+    <edge source="S:Y505H" target="S:G339D">
+      <data key="d0">200661</data>
+      <data key="d1">0.11169141573423966</data>
+    </edge>
+    <edge source="S:Y505H" target="S:S371L">
+      <data key="d0">198752</data>
+      <data key="d1">0.11062883300696996</data>
+    </edge>
+    <edge source="S:Y505H" target="S:S373P">
+      <data key="d0">199249</data>
+      <data key="d1">0.11090547188358235</data>
+    </edge>
+    <edge source="S:Y505H" target="S:S375F">
+      <data key="d0">199266</data>
+      <data key="d1">0.11091493438036788</data>
+    </edge>
+    <edge source="S:Y505H" target="S:E484A">
+      <data key="d0">201831</data>
+      <data key="d1">0.1123426581600676</data>
+    </edge>
+    <edge source="S:Y505H" target="S:Q493R">
+      <data key="d0">202658</data>
+      <data key="d1">0.11280298079781094</data>
+    </edge>
+    <edge source="S:Y505H" target="S:Q498R">
+      <data key="d0">202858</data>
+      <data key="d1">0.11291430428940545</data>
+    </edge>
+    <edge source="S:Y505H" target="S:N679K">
+      <data key="d0">203067</data>
+      <data key="d1">0.11303063733812173</data>
+    </edge>
+    <edge source="S:Y505H" target="S:N856K">
+      <data key="d0">202600</data>
+      <data key="d1">0.11277069698524853</data>
+    </edge>
+    <edge source="S:Y505H" target="S:Q954H">
+      <data key="d0">203071</data>
+      <data key="d1">0.11303286380795362</data>
+    </edge>
+    <edge source="S:Y505H" target="S:N969K">
+      <data key="d0">203060</data>
+      <data key="d1">0.11302674101591592</data>
+    </edge>
+    <edge source="S:Y505H" target="S:L981F">
+      <data key="d0">202554</data>
+      <data key="d1">0.11274509258218178</data>
+    </edge>
+    <edge source="S:Y505H" target="M:Q19E">
+      <data key="d0">199318</data>
+      <data key="d1">0.11094387848818245</data>
+    </edge>
+    <edge source="S:Y505H" target="M:A63T">
+      <data key="d0">196263</data>
+      <data key="d1">0.10924341215407617</data>
+    </edge>
+    <edge source="S:E484A" target="S:Q493R">
+      <data key="d0">206035</data>
+      <data key="d1">0.1146826779533844</data>
+    </edge>
+    <edge source="S:E484A" target="S:T478K">
+      <data key="d0">205878</data>
+      <data key="d1">0.1145952890124827</data>
+    </edge>
+    <edge source="S:E484A" target="S:N679K">
+      <data key="d0">206225</data>
+      <data key="d1">0.1147884352703992</data>
+    </edge>
+    <edge source="S:E484A" target="S:G339D">
+      <data key="d0">203745</data>
+      <data key="d1">0.11340802397462715</data>
+    </edge>
+    <edge source="S:E484A" target="S:S371L">
+      <data key="d0">202045</data>
+      <data key="d1">0.11246177429607374</data>
+    </edge>
+    <edge source="S:E484A" target="S:S373P">
+      <data key="d0">202588</data>
+      <data key="d1">0.11276401757575286</data>
+    </edge>
+    <edge source="S:E484A" target="S:S375F">
+      <data key="d0">202592</data>
+      <data key="d1">0.11276624404558475</data>
+    </edge>
+    <edge source="S:E484A" target="S:G496S">
+      <data key="d0">201865</data>
+      <data key="d1">0.11236158315363866</data>
+    </edge>
+    <edge source="S:E484A" target="S:Q498R">
+      <data key="d0">201976</data>
+      <data key="d1">0.11242336769147362</data>
+    </edge>
+    <edge source="S:E484A" target="S:N856K">
+      <data key="d0">205761</data>
+      <data key="d1">0.11453016476989991</data>
+    </edge>
+    <edge source="S:E484A" target="S:Q954H">
+      <data key="d0">206213</data>
+      <data key="d1">0.11478175586090353</data>
+    </edge>
+    <edge source="S:E484A" target="S:N969K">
+      <data key="d0">206210</data>
+      <data key="d1">0.11478008600852961</data>
+    </edge>
+    <edge source="S:E484A" target="S:L981F">
+      <data key="d0">205703</data>
+      <data key="d1">0.1144978809573375</data>
+    </edge>
+    <edge source="S:E484A" target="M:Q19E">
+      <data key="d0">202509</data>
+      <data key="d1">0.11272004479657302</data>
+    </edge>
+    <edge source="S:E484A" target="M:A63T">
+      <data key="d0">199483</data>
+      <data key="d1">0.11103572036874794</data>
+    </edge>
+    <edge source="S:Q493R" target="S:T478K">
+      <data key="d0">206102</data>
+      <data key="d1">0.11471997132306856</data>
+    </edge>
+    <edge source="S:Q493R" target="S:G339D">
+      <data key="d0">204675</data>
+      <data key="d1">0.11392567821054167</data>
+    </edge>
+    <edge source="S:Q493R" target="S:S371L">
+      <data key="d0">202757</data>
+      <data key="d1">0.11285808592615022</data>
+    </edge>
+    <edge source="S:Q493R" target="S:S373P">
+      <data key="d0">203257</data>
+      <data key="d1">0.11313639465513652</data>
+    </edge>
+    <edge source="S:Q493R" target="S:S375F">
+      <data key="d0">203263</data>
+      <data key="d1">0.11313973435988435</data>
+    </edge>
+    <edge source="S:Q493R" target="S:G496S">
+      <data key="d0">202882</data>
+      <data key="d1">0.1129276631083968</data>
+    </edge>
+    <edge source="S:Q493R" target="S:Q498R">
+      <data key="d0">202989</data>
+      <data key="d1">0.11298722117639987</data>
+    </edge>
+    <edge source="S:Q493R" target="S:N679K">
+      <data key="d0">207144</data>
+      <data key="d1">0.11529996671427602</data>
+    </edge>
+    <edge source="S:Q493R" target="S:N856K">
+      <data key="d0">206670</data>
+      <data key="d1">0.11503613003919701</data>
+    </edge>
+    <edge source="S:Q493R" target="S:Q954H">
+      <data key="d0">207143</data>
+      <data key="d1">0.11529941009681804</data>
+    </edge>
+    <edge source="S:Q493R" target="S:N969K">
+      <data key="d0">207135</data>
+      <data key="d1">0.11529495715715427</data>
+    </edge>
+    <edge source="S:Q493R" target="S:L981F">
+      <data key="d0">206625</data>
+      <data key="d1">0.11501108225358823</data>
+    </edge>
+    <edge source="S:Q493R" target="M:Q19E">
+      <data key="d0">203391</data>
+      <data key="d1">0.11321098139450485</data>
+    </edge>
+    <edge source="S:Q493R" target="M:A63T">
+      <data key="d0">200343</data>
+      <data key="d1">0.11151441138260437</data>
+    </edge>
+    <edge source="S:T478K" target="S:G142D">
+      <data key="d0">861046</data>
+      <data key="d1">0.4792732357174743</data>
+    </edge>
+    <edge source="S:T478K" target="S:T19R">
+      <data key="d0">1104883</data>
+      <data key="d1">0.6149971668171389</data>
+    </edge>
+    <edge source="S:T478K" target="S:P681R">
+      <data key="d0">1106319</data>
+      <data key="d1">0.6157964694867876</data>
+    </edge>
+    <edge source="S:T478K" target="M:I82T">
+      <data key="d0">1099111</data>
+      <data key="d1">0.611784370849721</data>
+    </edge>
+    <edge source="S:T478K" target="ORF7a:V82A">
+      <data key="d0">1056661</data>
+      <data key="d1">0.5881559597587842</data>
+    </edge>
+    <edge source="S:T478K" target="N:D63G">
+      <data key="d0">1104165</data>
+      <data key="d1">0.6145975154823146</data>
+    </edge>
+    <edge source="S:T478K" target="S:L452R">
+      <data key="d0">1105166</data>
+      <data key="d1">0.6151546895577452</data>
+    </edge>
+    <edge source="S:T478K" target="S:G496S">
+      <data key="d0">201980</data>
+      <data key="d1">0.11242559416130551</data>
+    </edge>
+    <edge source="S:T478K" target="S:S375F">
+      <data key="d0">202874</data>
+      <data key="d1">0.11292321016873301</data>
+    </edge>
+    <edge source="S:T478K" target="S:Q498R">
+      <data key="d0">202105</data>
+      <data key="d1">0.1124951713435521</data>
+    </edge>
+    <edge source="S:T478K" target="S:N679K">
+      <data key="d0">206438</data>
+      <data key="d1">0.11490699478894736</data>
+    </edge>
+    <edge source="S:T478K" target="S:G339D">
+      <data key="d0">204062</data>
+      <data key="d1">0.11358447170880447</data>
+    </edge>
+    <edge source="S:T478K" target="S:S373P">
+      <data key="d0">202812</data>
+      <data key="d1">0.11288869988633872</data>
+    </edge>
+    <edge source="S:T478K" target="S:L981F">
+      <data key="d0">205932</data>
+      <data key="d1">0.11462534635521322</data>
+    </edge>
+    <edge source="S:T478K" target="S:N856K">
+      <data key="d0">205972</data>
+      <data key="d1">0.11464761105353213</data>
+    </edge>
+    <edge source="S:T478K" target="M:A63T">
+      <data key="d0">199609</data>
+      <data key="d1">0.11110585416845248</data>
+    </edge>
+    <edge source="S:T478K" target="M:Q19E">
+      <data key="d0">202672</data>
+      <data key="d1">0.11281077344222255</data>
+    </edge>
+    <edge source="S:T478K" target="S:N969K">
+      <data key="d0">206448</data>
+      <data key="d1">0.11491256096352709</data>
+    </edge>
+    <edge source="S:T478K" target="S:S371L">
+      <data key="d0">202277</data>
+      <data key="d1">0.11259090954632338</data>
+    </edge>
+    <edge source="S:T478K" target="S:Q954H">
+      <data key="d0">206453</data>
+      <data key="d1">0.11491534405081695</data>
+    </edge>
+    <edge source="M:I82T" target="S:G142D">
+      <data key="d0">855938</data>
+      <data key="d1">0.4764300337421503</data>
+    </edge>
+    <edge source="M:I82T" target="S:T19R">
+      <data key="d0">1116556</data>
+      <data key="d1">0.6214945624040531</data>
+    </edge>
+    <edge source="M:I82T" target="S:P681R">
+      <data key="d0">1118070</data>
+      <data key="d1">0.6223372812354235</data>
+    </edge>
+    <edge source="M:I82T" target="ORF7a:V82A">
+      <data key="d0">1066100</data>
+      <data key="d1">0.5934098719445876</data>
+    </edge>
+    <edge source="M:I82T" target="N:D63G">
+      <data key="d0">1115885</data>
+      <data key="d1">0.6211210720897534</data>
+    </edge>
+    <edge source="M:I82T" target="S:L452R">
+      <data key="d0">1098725</data>
+      <data key="d1">0.6115695165109436</data>
+    </edge>
+    <edge source="S:G142D" target="S:T19R">
+      <data key="d0">863173</data>
+      <data key="d1">0.48045716105058206</data>
+    </edge>
+    <edge source="S:G142D" target="S:L452R">
+      <data key="d0">860827</data>
+      <data key="d1">0.47915133649417835</data>
+    </edge>
+    <edge source="S:G142D" target="S:P681R">
+      <data key="d0">864186</data>
+      <data key="d1">0.4810210145355083</data>
+    </edge>
+    <edge source="S:G142D" target="ORF7a:V82A">
+      <data key="d0">832985</data>
+      <data key="d1">0.46365399322930523</data>
+    </edge>
+    <edge source="S:G142D" target="N:D63G">
+      <data key="d0">862108</data>
+      <data key="d1">0.4798643634578412</data>
+    </edge>
+    <edge source="S:G339D" target="S:S371L">
+      <data key="d0">205707</data>
+      <data key="d1">0.11450010742716939</data>
+    </edge>
+    <edge source="S:G339D" target="S:S373P">
+      <data key="d0">206254</data>
+      <data key="d1">0.1148045771766804</data>
+    </edge>
+    <edge source="S:G339D" target="S:S375F">
+      <data key="d0">206288</data>
+      <data key="d1">0.11482350217025147</data>
+    </edge>
+    <edge source="S:G339D" target="S:G496S">
+      <data key="d0">200699</data>
+      <data key="d1">0.11171256719764261</data>
+    </edge>
+    <edge source="S:G339D" target="S:Q498R">
+      <data key="d0">200853</data>
+      <data key="d1">0.11179828628617039</data>
+    </edge>
+    <edge source="S:G339D" target="S:N679K">
+      <data key="d0">218541</data>
+      <data key="d1">0.12164373588278972</data>
+    </edge>
+    <edge source="S:G339D" target="S:N856K">
+      <data key="d0">218075</data>
+      <data key="d1">0.12138435214737449</data>
+    </edge>
+    <edge source="S:G339D" target="S:Q954H">
+      <data key="d0">218540</data>
+      <data key="d1">0.12164317926533175</data>
+    </edge>
+    <edge source="S:G339D" target="S:N969K">
+      <data key="d0">218529</data>
+      <data key="d1">0.12163705647329405</data>
+    </edge>
+    <edge source="S:G339D" target="S:L981F">
+      <data key="d0">218091</data>
+      <data key="d1">0.12139325802670205</data>
+    </edge>
+    <edge source="S:G339D" target="M:Q19E">
+      <data key="d0">214728</data>
+      <data key="d1">0.1195213535155402</data>
+    </edge>
+    <edge source="S:G339D" target="M:A63T">
+      <data key="d0">211701</data>
+      <data key="d1">0.11783647247025715</data>
+    </edge>
+    <edge source="S:N679K" target="S:S371L">
+      <data key="d0">205775</data>
+      <data key="d1">0.11453795741431153</data>
+    </edge>
+    <edge source="S:N679K" target="S:S373P">
+      <data key="d0">206366</data>
+      <data key="d1">0.11486691833197334</data>
+    </edge>
+    <edge source="S:N679K" target="S:S375F">
+      <data key="d0">206407</data>
+      <data key="d1">0.1148897396477502</data>
+    </edge>
+    <edge source="S:N679K" target="S:G496S">
+      <data key="d0">203165</data>
+      <data key="d1">0.11308518584900304</data>
+    </edge>
+    <edge source="S:N679K" target="S:Q498R">
+      <data key="d0">203315</data>
+      <data key="d1">0.11316867846769893</data>
+    </edge>
+    <edge source="S:N679K" target="S:N856K">
+      <data key="d0">221381</data>
+      <data key="d1">0.1232245294634319</data>
+    </edge>
+    <edge source="S:N679K" target="S:Q954H">
+      <data key="d0">221850</data>
+      <data key="d1">0.12348558305122105</data>
+    </edge>
+    <edge source="S:N679K" target="S:N969K">
+      <data key="d0">221846</data>
+      <data key="d1">0.12348335658138916</data>
+    </edge>
+    <edge source="S:N679K" target="S:L981F">
+      <data key="d0">221328</data>
+      <data key="d1">0.12319502873815935</data>
+    </edge>
+    <edge source="S:N679K" target="M:Q19E">
+      <data key="d0">217985</data>
+      <data key="d1">0.12133425657615696</data>
+    </edge>
+    <edge source="S:N679K" target="M:A63T">
+      <data key="d0">214953</data>
+      <data key="d1">0.11964659244358404</data>
+    </edge>
+    <edge source="S:S373P" target="S:S371L">
+      <data key="d0">205726</data>
+      <data key="d1">0.11451068315887086</data>
+    </edge>
+    <edge source="S:S373P" target="S:S375F">
+      <data key="d0">206294</data>
+      <data key="d1">0.11482684187499931</data>
+    </edge>
+    <edge source="S:S373P" target="S:G496S">
+      <data key="d0">199257</data>
+      <data key="d1">0.11090992482324613</data>
+    </edge>
+    <edge source="S:S373P" target="S:Q498R">
+      <data key="d0">199398</data>
+      <data key="d1">0.11098840788482026</data>
+    </edge>
+    <edge source="S:S373P" target="S:N856K">
+      <data key="d0">205907</data>
+      <data key="d1">0.11461143091876391</data>
+    </edge>
+    <edge source="S:S373P" target="S:Q954H">
+      <data key="d0">206354</data>
+      <data key="d1">0.11486023892247767</data>
+    </edge>
+    <edge source="S:S373P" target="S:N969K">
+      <data key="d0">206352</data>
+      <data key="d1">0.11485912568756171</data>
+    </edge>
+    <edge source="S:S373P" target="S:L981F">
+      <data key="d0">205918</data>
+      <data key="d1">0.11461755371080161</data>
+    </edge>
+    <edge source="S:S373P" target="M:Q19E">
+      <data key="d0">202632</data>
+      <data key="d1">0.11278850874390364</data>
+    </edge>
+    <edge source="S:S373P" target="M:A63T">
+      <data key="d0">199580</data>
+      <data key="d1">0.11108971226217128</data>
+    </edge>
+    <edge source="S:L452R" target="S:T19R">
+      <data key="d0">1104366</data>
+      <data key="d1">0.6147093955913671</data>
+    </edge>
+    <edge source="S:L452R" target="S:P681R">
+      <data key="d0">1106342</data>
+      <data key="d1">0.6158092716883209</data>
+    </edge>
+    <edge source="S:L452R" target="ORF7a:V82A">
+      <data key="d0">1056521</data>
+      <data key="d1">0.5880780333146681</data>
+    </edge>
+    <edge source="S:L452R" target="N:D63G">
+      <data key="d0">1103606</data>
+      <data key="d1">0.6142863663233079</data>
+    </edge>
+    <edge source="S:T19R" target="S:P681R">
+      <data key="d0">1124032</data>
+      <data key="d1">0.6256558345198562</data>
+    </edge>
+    <edge source="S:T19R" target="ORF7a:V82A">
+      <data key="d0">1072132</data>
+      <data key="d1">0.5967673884510784</data>
+    </edge>
+    <edge source="S:T19R" target="N:D63G">
+      <data key="d0">1121820</data>
+      <data key="d1">0.6244245967028208</data>
+    </edge>
+    <edge source="S:P681R" target="ORF7a:V82A">
+      <data key="d0">1073781</data>
+      <data key="d1">0.5976852506392751</data>
+    </edge>
+    <edge source="S:P681R" target="N:D63G">
+      <data key="d0">1123306</data>
+      <data key="d1">0.6252517302453681</data>
+    </edge>
+    <edge source="ORF7a:V82A" target="N:D63G">
+      <data key="d0">1071263</data>
+      <data key="d1">0.5962836878801001</data>
+    </edge>
+    <edge source="S:N969K" target="S:S371L">
+      <data key="d0">205763</data>
+      <data key="d1">0.11453127800481586</data>
+    </edge>
+    <edge source="S:N969K" target="S:S375F">
+      <data key="d0">206394</data>
+      <data key="d1">0.11488250362079656</data>
+    </edge>
+    <edge source="S:N969K" target="S:G496S">
+      <data key="d0">203156</data>
+      <data key="d1">0.11308017629188129</data>
+    </edge>
+    <edge source="S:N969K" target="S:Q498R">
+      <data key="d0">203309</data>
+      <data key="d1">0.1131653387629511</data>
+    </edge>
+    <edge source="S:N969K" target="S:N856K">
+      <data key="d0">221386</data>
+      <data key="d1">0.12322731255072177</data>
+    </edge>
+    <edge source="S:N969K" target="S:Q954H">
+      <data key="d0">221880</data>
+      <data key="d1">0.12350228157496022</data>
+    </edge>
+    <edge source="S:N969K" target="S:L981F">
+      <data key="d0">221369</data>
+      <data key="d1">0.12321785005393623</data>
+    </edge>
+    <edge source="S:N969K" target="M:Q19E">
+      <data key="d0">217965</data>
+      <data key="d1">0.12132312422699751</data>
+    </edge>
+    <edge source="S:N969K" target="M:A63T">
+      <data key="d0">214935</data>
+      <data key="d1">0.11963657332934054</data>
+    </edge>
+    <edge source="S:G496S" target="S:S371L">
+      <data key="d0">199173</data>
+      <data key="d1">0.11086316895677643</data>
+    </edge>
+    <edge source="S:G496S" target="S:S375F">
+      <data key="d0">199266</data>
+      <data key="d1">0.11091493438036788</data>
+    </edge>
+    <edge source="S:G496S" target="S:Q498R">
+      <data key="d0">202822</data>
+      <data key="d1">0.11289426606091844</data>
+    </edge>
+    <edge source="S:G496S" target="S:N856K">
+      <data key="d0">203122</data>
+      <data key="d1">0.11306125129831023</data>
+    </edge>
+    <edge source="S:G496S" target="S:Q954H">
+      <data key="d0">203165</data>
+      <data key="d1">0.11308518584900304</data>
+    </edge>
+    <edge source="S:G496S" target="S:L981F">
+      <data key="d0">203074</data>
+      <data key="d1">0.11303453366032754</data>
+    </edge>
+    <edge source="S:G496S" target="M:Q19E">
+      <data key="d0">199417</data>
+      <data key="d1">0.11099898361652175</data>
+    </edge>
+    <edge source="S:G496S" target="M:A63T">
+      <data key="d0">196364</data>
+      <data key="d1">0.1092996305173314</data>
+    </edge>
+    <edge source="S:L981F" target="S:S371L">
+      <data key="d0">205755</data>
+      <data key="d1">0.11452682506515208</data>
+    </edge>
+    <edge source="S:L981F" target="S:S375F">
+      <data key="d0">205960</data>
+      <data key="d1">0.11464093164403645</data>
+    </edge>
+    <edge source="S:L981F" target="S:Q498R">
+      <data key="d0">202801</data>
+      <data key="d1">0.11288257709430102</data>
+    </edge>
+    <edge source="S:L981F" target="S:N856K">
+      <data key="d0">221303</data>
+      <data key="d1">0.12318111330171004</data>
+    </edge>
+    <edge source="S:L981F" target="S:Q954H">
+      <data key="d0">221359</data>
+      <data key="d1">0.12321228387935651</data>
+    </edge>
+    <edge source="S:L981F" target="M:Q19E">
+      <data key="d0">217455</data>
+      <data key="d1">0.12103924932343148</data>
+    </edge>
+    <edge source="S:L981F" target="M:A63T">
+      <data key="d0">214421</data>
+      <data key="d1">0.11935047195594262</data>
+    </edge>
+    <edge source="S:S375F" target="S:S371L">
+      <data key="d0">205656</data>
+      <data key="d1">0.11447171993681278</data>
+    </edge>
+    <edge source="S:S375F" target="S:Q498R">
+      <data key="d0">199416</data>
+      <data key="d1">0.11099842699906377</data>
+    </edge>
+    <edge source="S:S375F" target="S:N856K">
+      <data key="d0">205948</data>
+      <data key="d1">0.11463425223454078</data>
+    </edge>
+    <edge source="S:S375F" target="S:Q954H">
+      <data key="d0">206397</data>
+      <data key="d1">0.11488417347317048</data>
+    </edge>
+    <edge source="S:S375F" target="M:Q19E">
+      <data key="d0">202675</data>
+      <data key="d1">0.11281244329459647</data>
+    </edge>
+    <edge source="S:S375F" target="M:A63T">
+      <data key="d0">199620</data>
+      <data key="d1">0.11111197696049017</data>
+    </edge>
+    <edge source="M:Q19E" target="S:S371L">
+      <data key="d0">202072</data>
+      <data key="d1">0.11247680296743899</data>
+    </edge>
+    <edge source="M:Q19E" target="S:Q498R">
+      <data key="d0">199565</data>
+      <data key="d1">0.11108136300030169</data>
+    </edge>
+    <edge source="M:Q19E" target="S:N856K">
+      <data key="d0">217519</data>
+      <data key="d1">0.12107487284074173</data>
+    </edge>
+    <edge source="M:Q19E" target="S:Q954H">
+      <data key="d0">217966</data>
+      <data key="d1">0.12132368084445548</data>
+    </edge>
+    <edge source="M:Q19E" target="M:A63T">
+      <data key="d0">212090</data>
+      <data key="d1">0.11805299666140849</data>
+    </edge>
+    <edge source="S:N856K" target="S:S371L">
+      <data key="d0">205736</data>
+      <data key="d1">0.1145162493334506</data>
+    </edge>
+    <edge source="S:N856K" target="S:Q498R">
+      <data key="d0">202848</data>
+      <data key="d1">0.11290873811482573</data>
+    </edge>
+    <edge source="S:N856K" target="S:Q954H">
+      <data key="d0">221389</data>
+      <data key="d1">0.12322898240309568</data>
+    </edge>
+    <edge source="S:N856K" target="M:A63T">
+      <data key="d0">214487</data>
+      <data key="d1">0.11938720870816881</data>
+    </edge>
+    <edge source="M:A63T" target="S:S371L">
+      <data key="d0">199009</data>
+      <data key="d1">0.11077188369366892</data>
+    </edge>
+    <edge source="M:A63T" target="S:Q498R">
+      <data key="d0">196510</data>
+      <data key="d1">0.1093808966661954</data>
+    </edge>
+    <edge source="M:A63T" target="S:Q954H">
+      <data key="d0">214936</data>
+      <data key="d1">0.11963712994679851</data>
+    </edge>
+    <edge source="S:Q498R" target="S:S371L">
+      <data key="d0">198896</data>
+      <data key="d1">0.11070898592091802</data>
+    </edge>
+    <edge source="S:Q498R" target="S:Q954H">
+      <data key="d0">203321</data>
+      <data key="d1">0.11317201817244676</data>
+    </edge>
+    <edge source="S:S371L" target="S:Q954H">
+      <data key="d0">205772</data>
+      <data key="d1">0.11453628756193761</data>
+    </edge>
+  </graph>
+</graphml>
