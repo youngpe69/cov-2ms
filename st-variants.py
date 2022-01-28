@@ -155,7 +155,7 @@ st.subheader("Explore Mutation Relationships")
 col3a, col3b = st.columns(2)
 
 with col3a:
-    selected_threshold = st.slider(label='Select Threshold', min_value=0.1, max_value=1.0, value=0.7)
+    selected_threshold = st.slider(label='Select weight threshold. Weight is ratio of observed connection to total entries', min_value=0.1, max_value=1.0, value=0.7)
 
 with col3b:
     select_edge_labels = st.checkbox('Show Weights', value=True)
@@ -189,7 +189,7 @@ config = Config(width=1800,
                 disableLinkForce = True
                 # **kwargs e.g. node_size=1000 or node_color="blue"
                 ) 
-
+st.text("Drag nodes or the graph background to reposition the network")
 return_value = agraph(nodes=nodes, 
                       edges=edges, 
                       config=config)
