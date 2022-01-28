@@ -85,6 +85,7 @@ def search_data(muts, cogDf):
         seriesList.append(series)
         #mutByDate[mut] = series
     mutByDate = pd.concat(seriesList, axis=1)
+    mutByDate.fillna(value=0, inplace=True)
     return mutByDate
      
 
