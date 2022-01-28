@@ -10,6 +10,8 @@ import seaborn as sns
 import json as jn
 import networkx as nx
 
+from streamlit_agraph import agraph, Node, Edge, Config
+
 # page configuration
 st.set_page_config(
     page_title="CoVs-2 Mutations",
